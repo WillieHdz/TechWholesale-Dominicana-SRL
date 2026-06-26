@@ -1,0 +1,31 @@
+ProductoID,SKU,NombreProducto,Categoria,Marca,PrecioVenta,Costo,StockActual,EstadoProducto,ImagenProductoURL
+1,LAP-001,Laptop HP Pavilion 15 i5,Laptops,HP,45200,36500,48,Activo,https://ssl-product-images.www8-hp.com/digmedialib/prodimg/knivel/c08543158.png
+2,LAP-002,Laptop Dell Inspiron 15 i7,Laptops,Dell,62600,49700,32,Activo,https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/inspiron-15-3530/media-gallery/black/notebook-inspiron-15-3530-black-gallery-1.psd
+3,LAP-003,Laptop Lenovo IdeaPad i5,Laptops,Lenovo,41700,33900,55,Activo,https://p2-ofp.static.pub/fes/cms/2022/09/23/0e7eme8l6dvvkdkzjy0z0qm5xqxhf3595830.png
+4,LAP-004,Laptop ASUS VivoBook 14,Laptops,ASUS,38200,31300,40,Activo,https://dlcdnwebimgs.asus.com/gain/CBFB977A-FEAE-4E0A-8BA3-01B5FD7A7F71/w717/h525
+5,LAP-005,Laptop MacBook Air M2,Laptops,Apple,69600,60000,18,Activo,https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-config-20220606?wid=820&hei=498&fmt=jpeg&qlt=90&.v=1654122880566
+6,LAP-006,Laptop HP EliteBook 840,Laptops,HP,80000,64000,25,Activo,https://ssl-product-images.www8-hp.com/digmedialib/prodimg/knivel/c08543480.png
+7,MON-001,"Monitor Samsung 24"" FHD",Monitores,Samsung,12500,9800,75,Activo,https://image-us.samsung.com/SamsungUS/home/computing/monitors/ls27r354fhnxza/gallery/01_monitor_S27R354_001_Front_Black.jpg
+8,MON-002,"Monitor LG 27"" QHD",Monitores,LG,24300,19100,42,Activo,https://www.lg.com/us/images/monitors/md07000014/gallery/medium01.jpg
+9,MON-003,"Monitor Dell 27"" 4K",Monitores,Dell,33300,26000,30,Activo,https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2723d/media-gallery/monitor-p2723d-gallery-1.psd
+10,MON-004,"Monitor HP 22"" FHD",Monitores,HP,9700,7600,90,Activo,https://ssl-product-images.www8-hp.com/digmedialib/prodimg/knivel/c08084424.png
+11,IMP-001,Impresora HP LaserJet Pro,Impresoras,HP,19400,14900,35,Activo,https://ssl-product-images.www8-hp.com/digmedialib/prodimg/knivel/c07920080.png
+12,IMP-002,Impresora Canon PIXMA,Impresoras,Canon,6900,5200,60,Activo,https://www.usa.canon.com/content/dam/canon-us/pdp-images/printers/pixma/g-series/g3270/G3270-03.png
+13,IMP-003,Impresora Epson EcoTank L3250,Impresoras,Epson,15200,11600,45,Activo,https://epson.com/Assets/Commerce/Products/EcoTank/ET-2850-b.png
+14,IMP-004,Impresora Brother Multifuncional,Impresoras,Brother,17300,13400,28,Activo,https://www.brother-usa.com/-/media/Brother/Product%20Images/Printers/MFCL2750DW/Main.png
+15,ACC-001,Mouse Logitech MX Master 3,Accesorios,Logitech,7000,5100,120,Activo,https://resource.logitech.com/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-graphite.png
+16,ACC-002,Teclado Logitech MK270,Accesorios,Logitech,2000,1400,150,Activo,https://resource.logitech.com/content/dam/logitech/en/products/combos/mk270/gallery/mk270-gallery-1.png
+17,ACC-003,Headset Jabra Evolve2,Accesorios,Jabra,13900,10100,65,Activo,https://www.jabra.com/imagevault/publishedmedia/8xzalw1czjcfzfqpjqtz/jabra-evolve2-30-gallery-1.png
+18,ACC-004,Webcam Logitech C920,Accesorios,Logitech,4900,3600,80,Activo,https://resource.logitech.com/content/dam/logitech/en/products/webcams/c920s/gallery/c920s-gallery-1.png
+19,ACC-005,Mochila Targus para Laptop,Accesorios,Targus,2400,1700,200,Activo,https://www.targus.com/on/demandware.static/-/Sites-targus-master/default/dw6af33f10/images/hi-res/TSB796GL_S2.jpg
+20,PER-001,Hub USB-C 7 en 1,Periféricos,Anker,2400,1700,110,Activo,https://a.scdn.co/p/original/number/b71ed27bae76d1f84bca/image
+21,PER-002,Disco Externo WD 1TB,Periféricos,Western Digital,3800,2800,88,Activo,https://www.westerndigital.com/content/dam/store/en-us/assets/products/portable-storage/my-passport-usb-3-0-hdd/gallery/wd-my-passport-black-1.png.thumb.1280.1280.png
+22,PER-003,Memoria USB Kingston 64GB,Periféricos,Kingston,800,600,300,Activo,https://media.kingston.com/kingston/product/dtse9g2_1-lg.jpg
+23,PER-004,Adaptador HDMI a VGA,Periféricos,Belkin,1300,900,180,Activo,https://www.belkin.com/dw/image/v2/BGLY_PRD/on/demandware.static/-/Sites-master-catalog/default/dwa52fd39a/F2CD028btBLK_G00001.jpg
+24,COM-001,RAM DDR4 16GB Kingston,Componentes,Kingston,3100,2200,95,Activo,https://media.kingston.com/kingston/product/ktc-product-ram-kvr-1-lg.jpg
+25,COM-002,SSD Samsung 500GB,Componentes,Samsung,3800,2800,110,Activo,https://image-us.samsung.com/SamsungUS/home/computing/memory-storage/solid-state-drives/06012021/870EVO-Main-image.jpg
+26,COM-003,SSD M.2 Western Digital 1TB,Componentes,Western Digital,5500,4100,70,Activo,https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-blue-sn570-nvme-ssd/gallery/wd-blue-sn570-nvme-ssd-1.png.thumb.319.319.png
+27,COM-004,Tarjeta de Red TP-Link WiFi,Componentes,TP-Link,1700,1200,140,Activo,https://static.tp-link.com/TL-WN881ND_V3_1.0_01_large_1478587499729p.jpg
+28,COM-005,UPS APC 1500VA,Componentes,APC,13200,10000,45,Activo,https://apc.com/content/dam/apc/en_US/images/catalog/UPS/SU1500RMXLI3U.jpg
+29,LAP-007,Laptop Acer Aspire 5 i5,Laptops,Acer,38200,31300,38,Activo,https://static.acer.com/up/Resource/Acer/Laptops/Aspire_5/Images/Gallery/20221129/A515-55G-534H-back.png
+30,MON-005,"Monitor Acer 24"" IPS",Monitores,Acer,11100,8700,65,Activo,https://www.acer.com/content/dam/acer/north-america/us/PDPImages/acer-24-inch-monitor-eb1-series-1.png

@@ -1,0 +1,572 @@
+ClienteID,CodigoCliente,NombreCliente,TipoCliente,Ciudad,Zona,Telefono,Correo,FechaRegistro,EstadoCliente
+1,CLI-001,ProTech & Cía,Distribuidor Tecnológico,Barahona,Zona Norte,809-891-7664,protechca@protechc.do,2024-07-27,Activo
+2,CLI-002,Universidad SA,Empresa Corporativa,Moca,Zona Norte,809-600-2580,universidadsa@universi.do,2020-06-06,Activo
+3,CLI-003,Info Point,Tienda Retail,Punta Cana,Zona Este,809-572-6758,infopoint@infopoin.do,2021-09-23,Activo
+4,CLI-004,DigiShop Store,Tienda Retail,Nagua,Zona Norte,809-702-3682,digishopstore@digishop.do,2018-11-11,Activo
+5,CLI-005,Empresa Nacional,Empresa Corporativa,Sosúa,Zona Oeste,809-860-3077,empresanacional@empresan.do,2024-01-04,Activo
+6,CLI-006,Aerolínea & Asociados,Empresa Corporativa,El Seibo,Zona Este,809-927-6170,aerolíneaasocia@aerolíne.do,2022-03-12,Activo
+7,CLI-007,Hospital del Caribe,Empresa Corporativa,Los Alcarrizos,Zona Capital,809-553-7551,hospitaldelcari@hospital.do,2021-09-06,Activo
+8,CLI-008,Supermercados SA,Empresa Corporativa,Santo Domingo,Zona Capital,809-737-4715,supermercadossa@supermer.do,2023-07-13,Activo
+9,CLI-009,CompuWorld Store,Tienda Retail,Azua,Zona Sur,809-851-7241,compuworldstore@compuwor.do,2022-09-13,Activo
+10,CLI-010,OmegaTech Solutions,Distribuidor Tecnológico,La Vega,Zona Norte,809-205-3565,omegatechsoluti@omegatec.do,2022-05-04,Activo
+11,CLI-011,DigiShop Point,Tienda Retail,Bonao,Zona Norte,809-404-4240,digishoppoint@digishop.do,2018-07-16,Activo
+12,CLI-012,ProTech & Cía,Distribuidor Tecnológico,Los Alcarrizos,Zona Capital,809-937-1935,protechcía@protechc.do,2019-08-11,Activo
+13,CLI-013,Servicios Dominicana,Empresa Corporativa,Sosúa,Zona Oeste,809-669-3272,serviciosdomini@servicio.do,2022-12-10,Activo
+14,CLI-014,Industrias CxA,Empresa Corporativa,San Cristóbal,Zona Capital,809-353-9934,industriascxa@industri.do,2020-09-21,Activo
+15,CLI-015,Aerolínea Dominicana,Empresa Corporativa,Santo Domingo Este,Zona Capital,809-282-8173,aerolíneadomini@aerolíne.do,2019-01-24,Activo
+16,CLI-016,Info Plaza,Tienda Retail,Azua,Zona Capital,809-944-7231,infoplaza@infoplaz.do,2022-04-02,Inactivo
+17,CLI-017,Smart Hub,Tienda Retail,Valverde (Mao),Zona Oeste,809-752-9898,smarthub@smarthub.do,2024-11-23,Inactivo
+18,CLI-018,Info Market,Tienda Retail,Puerto Plata,Zona Oeste,809-284-7144,infomarket@infomark.do,2020-12-25,Activo
+19,CLI-019,TechDist & Cía,Distribuidor Tecnológico,Barahona,Zona Norte,809-949-6679,techdistca@techdist.do,2024-03-29,Activo
+20,CLI-020,Seguros del Caribe,Empresa Corporativa,Santo Domingo Norte,Zona Capital,809-536-4531,segurosdelcarib@segurosd.do,2020-08-10,Activo
+21,CLI-021,EliteTech Distribuidores,Distribuidor Tecnológico,Cabarete,Zona Oeste,809-429-4017,elitetechdistri@elitetec.do,2023-10-24,Inactivo
+22,CLI-022,TropicTech Solutions,Distribuidor Tecnológico,Bonao,Zona Norte,809-406-8380,tropictechsolut@tropicte.do,2021-06-23,Activo
+23,CLI-023,Aerolínea CxA,Empresa Corporativa,Azua,Zona Capital,809-620-7925,aerolíneacxa@aerolíne.do,2022-11-14,Activo
+24,CLI-024,Smart Point,Tienda Retail,Boca Chica,Zona Capital,809-294-6662,smartpoint@smartpoi.do,2018-12-16,Activo
+25,CLI-025,TechDist Distribuidores,Distribuidor Tecnológico,Ocoa,Zona Este,809-980-2181,techdistdistrib@techdist.do,2023-03-22,Inactivo
+26,CLI-026,Compu Hub,Tienda Retail,Azua,Zona Norte,809-639-1534,compuhub@compuhub.do,2023-05-01,Inactivo
+27,CLI-027,Supermercados SRL,Empresa Corporativa,La Romana,Zona Este,809-861-2966,supermercadossr@supermer.do,2022-10-27,Activo
+28,CLI-028,Tech Point,Tienda Retail,Puerto Plata,Zona Oeste,809-760-4082,techpoint@techpoin.do,2022-01-03,Activo
+29,CLI-029,Supermercados Dominicana,Empresa Corporativa,Valverde (Mao),Zona Oeste,809-992-5957,supermercadosdo@supermer.do,2023-08-12,Inactivo
+30,CLI-030,DigiDist & Cía,Distribuidor Tecnológico,Santo Domingo Norte,Zona Capital,809-332-6820,digidistcía@digidist.do,2018-06-02,Activo
+31,CLI-031,Tech Store,Tienda Retail,Montecristi,Zona Norte,809-888-2931,techstore@techstor.do,2023-10-17,Inactivo
+32,CLI-032,Supermercados CxA,Empresa Corporativa,Dajabón,Zona Norte,809-468-9787,supermercadoscx@supermer.do,2021-01-11,Inactivo
+33,CLI-033,Compu Center,Tienda Retail,Santo Domingo,Zona Capital,809-345-5998,compucenter@compucen.do,2019-05-07,Activo
+34,CLI-034,PC Express,Tienda Retail,Santiago,Zona Norte,809-423-4704,pcexpress@pcexpres.do,2018-02-18,Activo
+35,CLI-035,DigiDist Partners,Distribuidor Tecnológico,Montecristi,Zona Oeste,809-384-8042,digidistpartner@digidist.do,2024-11-22,Inactivo
+36,CLI-036,Colegio SRL,Empresa Corporativa,Santo Domingo Este,Zona Capital,809-461-9780,colegiosrl@colegios.do,2018-09-13,Activo
+37,CLI-037,Financiera del Caribe,Empresa Corporativa,La Romana,Zona Este,809-222-1648,financieradelca@financie.do,2021-08-11,Activo
+38,CLI-038,CompuWorld Shop,Tienda Retail,Pedro Brand,Zona Capital,809-760-8039,compuworldshop@compuwor.do,2022-10-17,Activo
+39,CLI-039,Super Depot,Tienda Retail,Hato Mayor,Zona Este,809-761-4653,superdepot@superdep.do,2021-11-12,Activo
+40,CLI-040,Banco del Caribe,Empresa Corporativa,Pedro Brand,Zona Capital,809-401-8312,bancodelcaribe@bancodel.do,2021-03-23,Activo
+41,CLI-041,Digital Center,Tienda Retail,Higüey,Zona Este,809-371-1330,digitalcenter@digitalc.do,2022-06-13,Activo
+42,CLI-042,NetWorld SRL,Distribuidor Tecnológico,Hato Mayor,Zona Este,809-600-9718,networldsrl@networld.do,2022-01-10,Activo
+43,CLI-043,DigiDist Group,Distribuidor Tecnológico,Cabarete,Zona Norte,809-421-8853,digidistgrou@digidist.do,2022-07-06,Activo
+44,CLI-044,Financiera Nacional,Empresa Corporativa,Salcedo,Zona Norte,809-629-1196,financieranacio@financie.do,2020-06-10,Activo
+45,CLI-045,Industrias SRL,Empresa Corporativa,Valverde (Mao),Zona Oeste,809-569-4545,industriassr@industri.do,2020-08-29,Activo
+46,CLI-046,Mega Hub,Tienda Retail,Barahona,Zona Este,809-761-6389,megahub@megahub.do,2022-12-02,Activo
+47,CLI-047,ElectroTech Shop,Tienda Retail,Santiago,Zona Norte,809-818-4835,electrotechshop@electrot.do,2021-09-03,Activo
+48,CLI-048,Corporación & Asociados,Empresa Corporativa,Santo Domingo,Zona Capital,809-466-3684,corporaciónasoc@corporac.do,2019-12-15,Activo
+49,CLI-049,Aerolínea del Caribe,Empresa Corporativa,Azua,Zona Sur,809-561-6370,aerolíneadelcar@aerolíne.do,2024-08-10,Inactivo
+50,CLI-050,Servicios Nacional,Empresa Corporativa,Santiago Rodríguez,Zona Oeste,809-870-5075,serviciosnacion@servicio.do,2023-12-14,Activo
+51,CLI-051,Super Zone,Tienda Retail,El Seibo,Zona Este,809-208-7998,superzone@superzon.do,2023-07-05,Inactivo
+52,CLI-052,CaribeTech & Cía,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-612-7293,caribetechca@caribete.do,2023-03-07,Inactivo
+53,CLI-053,Ministerio del Caribe,Empresa Corporativa,Bonao,Zona Norte,809-963-8168,ministeriodelca@minister.do,2020-08-28,Activo
+54,CLI-054,Tech Point,Tienda Retail,Santiago,Zona Norte,809-262-5442,techpoint@techpoin.do,2022-06-03,Activo
+55,CLI-055,PC Center,Tienda Retail,Los Alcarrizos,Zona Capital,809-583-3718,pccenter@pccenter.do,2019-09-15,Activo
+56,CLI-056,Servicios SRL,Empresa Corporativa,Santo Domingo,Zona Capital,809-951-7546,serviciossrl@servicio.do,2022-07-03,Activo
+57,CLI-057,Importadora & Asociados,Empresa Corporativa,Ocoa,Zona Sur,809-906-2468,importadoraasoc@importad.do,2021-08-27,Activo
+58,CLI-058,Smart Zone,Tienda Retail,La Romana,Zona Este,809-747-7440,smartzone@smartzon.do,2021-07-21,Activo
+59,CLI-059,Hotel & Asociados,Empresa Corporativa,Nagua,Zona Norte,809-974-4221,hotelasociados@hotelaso.do,2020-07-06,Activo
+60,CLI-060,Importadora & Asociados,Empresa Corporativa,Puerto Plata,Zona Oeste,809-748-7871,importadoraasoc@importad.do,2024-12-19,Inactivo
+61,CLI-061,MaxTech Group,Distribuidor Tecnológico,Santiago,Zona Norte,809-340-4183,maxtechgroup@maxtechg.do,2019-04-06,Activo
+62,CLI-062,Hotel SA,Empresa Corporativa,Santiago Rodríguez,Zona Capital,809-358-7571,hotelsa@hotelsa.do,2024-05-18,Inactivo
+63,CLI-063,Supermercados Dominicana,Empresa Corporativa,Baní,Zona Sur,809-509-3997,supermercadosdo@supermer.do,2023-04-05,Activo
+64,CLI-064,MaxTech & Cía,Distribuidor Tecnológico,Hato Mayor,Zona Este,809-458-7576,maxtechca@maxtechc.do,2022-01-27,Activo
+65,CLI-065,TropicTech SRL,Distribuidor Tecnológico,Santo Domingo Este,Zona Capital,809-709-3929,tropictechsrl@tropicte.do,2020-10-10,Activo
+66,CLI-066,Mega Store,Tienda Retail,Santiago Rodríguez,Zona Oeste,809-618-3920,megastore@megastor.do,2024-09-24,Inactivo
+67,CLI-067,Mega Zone,Tienda Retail,Punta Cana,Zona Este,809-946-6726,megazone@megazone.do,2022-04-01,Activo
+68,CLI-068,Constructora SA,Empresa Corporativa,Salcedo,Zona Norte,809-406-9807,constructorasa@construc.do,2018-03-09,Activo
+69,CLI-069,CaribeTech Group,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-299-9715,caribetechgroup@caribete.do,2020-11-27,Activo
+70,CLI-070,OmegaTech Group,Distribuidor Tecnológico,San Juan de la Maguana,Zona Capital,809-730-1957,omegatechgro@omegatec.do,2023-12-25,Activo
+71,CLI-071,Info Depot,Tienda Retail,Santo Domingo,Zona Capital,809-799-7868,infodepot@infodepo.do,2021-02-21,Activo
+72,CLI-072,Smart Shop,Tienda Retail,Bonao,Zona Norte,809-547-9954,smartshop@smartsho.do,2020-07-06,Activo
+73,CLI-073,CompuWorld Store,Tienda Retail,Nagua,Zona Norte,809-276-3617,compuworldstore@compuwor.do,2021-08-26,Activo
+74,CLI-074,NetWorld Distribuidores,Distribuidor Tecnológico,Sosúa,Zona Oeste,809-749-5431,networlddistrib@networld.do,2023-04-10,Activo
+75,CLI-075,Constructora Dominicana,Empresa Corporativa,Los Alcarrizos,Zona Capital,809-585-6382,constructoradom@construc.do,2021-12-21,Activo
+76,CLI-076,CaribeTech & Cía,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-260-1925,caribetechcía@caribete.do,2019-01-04,Activo
+77,CLI-077,NetWorld Solutions,Distribuidor Tecnológico,Baní,Zona Sur,809-256-9930,networldsolutio@networld.do,2024-08-03,Inactivo
+78,CLI-078,CompuWorld Plaza,Tienda Retail,La Romana,Zona Este,809-715-8127,compuworldplaza@compuwor.do,2023-12-12,Activo
+79,CLI-079,PC Depot,Tienda Retail,Santo Domingo Oeste,Zona Capital,809-357-8652,pcdepot@pcdepot.do,2022-08-19,Activo
+80,CLI-080,Cyber Zone,Tienda Retail,Punta Cana,Zona Este,809-946-3109,cyberzone@cyberzon.do,2022-05-21,Activo
+81,CLI-081,Smart Center,Tienda Retail,La Romana,Zona Este,809-875-9990,smartcenter@smartcen.do,2023-08-23,Activo
+82,CLI-082,ProTech SRL,Distribuidor Tecnológico,Moca,Zona Norte,809-438-8958,protechsrl@protechs.do,2023-05-12,Inactivo
+83,CLI-083,ProTech Distribuidores,Distribuidor Tecnológico,Santiago,Zona Norte,809-503-3396,protechdistribu@protechd.do,2018-06-17,Activo
+84,CLI-084,PrimeTech SRL,Distribuidor Tecnológico,Valverde (Mao),Zona Oeste,809-480-4289,primetechsrl@primetec.do,2023-05-06,Inactivo
+85,CLI-085,Hotel Dominicana,Empresa Corporativa,Punta Cana,Zona Este,809-466-2824,hoteldominicana@hoteldom.do,2023-01-05,Activo
+86,CLI-086,Industrias SRL,Empresa Corporativa,Pedernales,Zona Capital,809-852-4201,industriassrl@industri.do,2024-08-23,Activo
+87,CLI-087,ITDist Solutions,Distribuidor Tecnológico,Sabana de la Mar,Zona Este,809-448-7471,itdistsolutions@itdistso.do,2021-06-06,Activo
+88,CLI-088,Industrias Internacional,Empresa Corporativa,Salcedo,Zona Norte,809-554-8807,industriasinter@industri.do,2018-05-12,Activo
+89,CLI-089,OmegaTech & Cía,Distribuidor Tecnológico,Azua,Zona Capital,809-247-2865,omegatechca@omegatec.do,2024-11-12,Activo
+90,CLI-090,TechDist & Cía,Distribuidor Tecnológico,Barahona,Zona Sur,809-795-5225,techdistca@techdist.do,2023-05-10,Activo
+91,CLI-091,PrimeTech Solutions,Distribuidor Tecnológico,San Pedro de Macorís,Zona Este,809-648-5337,primetechsoluti@primetec.do,2023-11-03,Activo
+92,CLI-092,MaxTech SRL,Distribuidor Tecnológico,Santiago,Zona Norte,809-958-2350,maxtechsrl@maxtechs.do,2022-04-17,Activo
+93,CLI-093,Clínica Dominicana,Empresa Corporativa,Santo Domingo Este,Zona Capital,809-452-8742,clínicadominica@clínicad.do,2021-06-20,Inactivo
+94,CLI-094,Smart Plaza,Tienda Retail,La Romana,Zona Este,809-245-7459,smartplaza@smartpla.do,2023-04-25,Activo
+95,CLI-095,Corporación Nacional,Empresa Corporativa,Santiago,Zona Norte,809-466-1622,corporaciónnaci@corporac.do,2019-02-20,Activo
+96,CLI-096,ByteStore Store,Tienda Retail,Santiago,Zona Norte,809-430-3889,bytestorestore@bytestor.do,2024-09-02,Activo
+97,CLI-097,CaribeTech & Cía,Distribuidor Tecnológico,Montecristi,Zona Oeste,809-524-5972,caribetechca@caribete.do,2023-09-11,Inactivo
+98,CLI-098,Compu Market,Tienda Retail,Puerto Plata,Zona Norte,809-986-1517,compumarket@compumar.do,2023-04-06,Inactivo
+99,CLI-099,Info Hub,Tienda Retail,Santiago,Zona Norte,809-991-4004,infohub@infohub.do,2020-11-26,Activo
+100,CLI-100,Industrias Dominicana,Empresa Corporativa,La Romana,Zona Este,809-626-8931,industriasdomin@industri.do,2022-05-22,Inactivo
+101,CLI-101,Constructora Internacional,Empresa Corporativa,San Pedro de Macorís,Zona Este,809-749-7586,constructoraint@construc.do,2023-12-12,Activo
+102,CLI-102,Grupo SA,Empresa Corporativa,Cabarete,Zona Oeste,809-386-4479,gruposa@gruposa.do,2022-12-05,Activo
+103,CLI-103,PrimeTech Group,Distribuidor Tecnológico,Higüey,Zona Este,809-375-9461,primetechgroup@primetec.do,2021-09-19,Activo
+104,CLI-104,Mega Market,Tienda Retail,San Pedro de Macorís,Zona Este,809-859-9573,megamarket@megamark.do,2022-03-01,Activo
+105,CLI-105,Mega Point,Tienda Retail,Santo Domingo Este,Zona Capital,809-830-4812,megapoint@megapoin.do,2019-09-10,Activo
+106,CLI-106,Financiera Dominicana,Empresa Corporativa,Santiago,Zona Norte,809-610-1307,financieradomin@financie.do,2020-08-14,Activo
+107,CLI-107,Farmacia del Caribe,Empresa Corporativa,La Vega,Zona Norte,809-380-6950,farmaciadelcari@farmacia.do,2020-03-04,Activo
+108,CLI-108,Smart Market,Tienda Retail,La Romana,Zona Este,809-465-8631,smartmarket@smartmar.do,2021-03-17,Activo
+109,CLI-109,Supermercados Nacional,Empresa Corporativa,Cabarete,Zona Oeste,809-940-9921,supermercadosna@supermer.do,2023-04-26,Inactivo
+110,CLI-110,Grupo CxA,Empresa Corporativa,La Vega,Zona Norte,809-624-5962,grupocxa@grupocxa.do,2023-01-13,Inactivo
+111,CLI-111,TropicTech Group,Distribuidor Tecnológico,Higüey,Zona Este,809-585-8344,tropictechgroup@tropicte.do,2023-10-23,Activo
+112,CLI-112,Tech Zone,Tienda Retail,Santo Domingo,Zona Capital,809-822-2283,techzone@techzone.do,2022-09-23,Activo
+113,CLI-113,MaxTech Group,Distribuidor Tecnológico,Azua,Zona Norte,809-590-2707,maxtechgroup@maxtechg.do,2022-05-28,Activo
+114,CLI-114,Aerolínea del Caribe,Empresa Corporativa,Dajabón,Zona Norte,809-839-9198,aerolíneadelcar@aerolíne.do,2024-01-30,Activo
+115,CLI-115,Industrias del Caribe,Empresa Corporativa,Punta Cana,Zona Este,809-529-1425,industriasdelca@industri.do,2023-12-25,Activo
+116,CLI-116,Financiera CxA,Empresa Corporativa,Puerto Plata,Zona Oeste,809-284-7813,financieracx@financie.do,2023-07-15,Inactivo
+117,CLI-117,Farmacia SA,Empresa Corporativa,Nagua,Zona Norte,809-433-3594,farmaciasa@farmacia.do,2018-02-27,Activo
+118,CLI-118,ElectroTech Hub,Tienda Retail,La Vega,Zona Norte,809-760-7697,electrotechhub@electrot.do,2019-01-16,Activo
+119,CLI-119,CompuWorld Market,Tienda Retail,Azua,Zona Este,809-245-8630,compuworldmarke@compuwor.do,2024-05-23,Inactivo
+120,CLI-120,Digital Zone,Tienda Retail,La Romana,Zona Este,809-716-3275,digitalzone@digitalz.do,2022-03-27,Activo
+121,CLI-121,CompuWorld Hub,Tienda Retail,Santo Domingo,Zona Capital,809-684-9193,compuworldhub@compuwor.do,2021-10-17,Activo
+122,CLI-122,NetStore Plaza,Tienda Retail,Boca Chica,Zona Capital,809-215-8389,netstoreplaza@netstore.do,2021-09-25,Activo
+123,CLI-123,Constructora CxA,Empresa Corporativa,San Pedro de Macorís,Zona Este,809-480-5889,constructoracxa@construc.do,2022-03-23,Activo
+124,CLI-124,Info Zone,Tienda Retail,Santo Domingo Este,Zona Capital,809-689-2490,infozone@infozone.do,2020-01-24,Activo
+125,CLI-125,Colegio Nacional,Empresa Corporativa,San Juan de la Maguana,Zona Sur,809-847-3668,colegionacional@colegion.do,2023-04-05,Inactivo
+126,CLI-126,DigiShop Shop,Tienda Retail,Azua,Zona Norte,809-233-3989,digishopshop@digishop.do,2021-08-17,Activo
+127,CLI-127,TechZone Depot,Tienda Retail,Santo Domingo,Zona Capital,809-212-6227,techzonedepot@techzone.do,2019-12-08,Activo
+128,CLI-128,Digital Point,Tienda Retail,Santo Domingo,Zona Capital,809-878-1290,digitalpoint@digitalp.do,2020-03-07,Activo
+129,CLI-129,Farmacia & Asociados,Empresa Corporativa,Sosúa,Zona Oeste,809-503-6884,farmaciaasociad@farmacia.do,2024-05-02,Activo
+130,CLI-130,ITDist & Cía,Distribuidor Tecnológico,Cabarete,Zona Oeste,809-743-9674,itdistca@itdistcí.do,2023-06-02,Activo
+131,CLI-131,Cyber Express,Tienda Retail,San Cristóbal,Zona Capital,809-372-6625,cyberexpress@cyberexp.do,2019-02-14,Activo
+132,CLI-132,Servicios del Caribe,Empresa Corporativa,Santo Domingo,Zona Capital,809-328-9999,serviciosdelcar@servicio.do,2018-02-01,Activo
+133,CLI-133,Compu Hub,Tienda Retail,Santo Domingo Este,Zona Capital,809-757-9925,compuhub@compuhub.do,2021-07-02,Activo
+134,CLI-134,IslandTech & Cía,Distribuidor Tecnológico,Punta Cana,Zona Este,809-398-2307,islandtechca@islandte.do,2021-02-02,Activo
+135,CLI-135,ElectroTech Point,Tienda Retail,Barahona,Zona Este,809-633-7885,electrotechpoin@electrot.do,2021-09-15,Activo
+136,CLI-136,Hospital CxA,Empresa Corporativa,San Cristóbal,Zona Capital,809-462-3749,hospitalcxa@hospital.do,2022-10-02,Activo
+137,CLI-137,NetStore Store,Tienda Retail,La Romana,Zona Este,809-619-1813,netstorestore@netstore.do,2022-02-09,Activo
+138,CLI-138,CompuWorld Center,Tienda Retail,Azua,Zona Sur,809-891-1692,compuworldcente@compuwor.do,2023-02-10,Activo
+139,CLI-139,Smart Hub,Tienda Retail,Santo Domingo,Zona Capital,809-207-3989,smarthub@smarthub.do,2023-11-14,Activo
+140,CLI-140,ITDist & Cía,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-408-6762,itdistcía@itdistcí.do,2020-05-22,Inactivo
+141,CLI-141,DigiDist Solutions,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-259-7828,digidistsolutio@digidist.do,2018-02-26,Activo
+142,CLI-142,DigiShop Plaza,Tienda Retail,Santo Domingo,Zona Capital,809-425-5158,digishopplaza@digishop.do,2018-10-07,Activo
+143,CLI-143,Tech Hub,Tienda Retail,Santo Domingo Oeste,Zona Capital,809-637-9707,techhub@techhub.do,2022-04-06,Activo
+144,CLI-144,ByteStore Shop,Tienda Retail,La Romana,Zona Este,809-420-2570,bytestoreshop@bytestor.do,2023-06-01,Activo
+145,CLI-145,Empresa CxA,Empresa Corporativa,Punta Cana,Zona Este,809-488-2759,empresacxa@empresac.do,2021-03-28,Inactivo
+146,CLI-146,ElectroTech Plaza,Tienda Retail,Sosúa,Zona Oeste,809-284-4328,electrotechplaz@electrot.do,2021-08-21,Activo
+147,CLI-147,Digital Market,Tienda Retail,Santo Domingo Oeste,Zona Capital,809-792-5241,digitalmarket@digitalm.do,2020-10-12,Activo
+148,CLI-148,Tech Zone,Tienda Retail,Neiba,Zona Este,809-760-4126,techzone@techzone.do,2024-03-28,Activo
+149,CLI-149,EliteTech & Cía,Distribuidor Tecnológico,San Francisco de Macorís,Zona Norte,809-541-7399,elitetechcía@elitetec.do,2022-12-20,Activo
+150,CLI-150,ITDist Distribuidores,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-373-1257,itdistdistribui@itdistdi.do,2019-09-19,Activo
+151,CLI-151,Importadora Dominicana,Empresa Corporativa,Azua,Zona Sur,809-253-9806,importadoradomi@importad.do,2023-02-27,Activo
+152,CLI-152,ProTech Solutions,Distribuidor Tecnológico,Higüey,Zona Este,809-728-8325,protechsolution@protechs.do,2023-01-17,Activo
+153,CLI-153,Smart Depot,Tienda Retail,Hato Mayor,Zona Este,809-335-4480,smartdepot@smartdep.do,2021-12-07,Activo
+154,CLI-154,TechZone Market,Tienda Retail,Santiago,Zona Norte,809-447-5298,techzonemarket@techzone.do,2022-09-28,Inactivo
+155,CLI-155,Colegio CxA,Empresa Corporativa,Santo Domingo Oeste,Zona Capital,809-770-3894,colegiocxa@colegioc.do,2020-03-25,Activo
+156,CLI-156,Farmacia SRL,Empresa Corporativa,Azua,Zona Este,809-349-9587,farmaciasrl@farmacia.do,2020-05-26,Activo
+157,CLI-157,TechDist Solutions,Distribuidor Tecnológico,Santo Domingo Norte,Zona Capital,809-468-3333,techdistsolutio@techdist.do,2022-01-24,Activo
+158,CLI-158,Supermercados CxA,Empresa Corporativa,Pedernales,Zona Norte,809-471-1767,supermercadoscx@supermer.do,2023-04-17,Activo
+159,CLI-159,Mega Shop,Tienda Retail,Bonao,Zona Norte,809-869-2568,megashop@megashop.do,2021-06-23,Activo
+160,CLI-160,Cyber Center,Tienda Retail,Azua,Zona Sur,809-832-2379,cybercenter@cybercen.do,2023-08-22,Inactivo
+161,CLI-161,Corporación SRL,Empresa Corporativa,Salcedo,Zona Norte,809-491-7661,corporaciónsrl@corporac.do,2018-03-27,Activo
+162,CLI-162,BetaTech Distribuidores,Distribuidor Tecnológico,Baní,Zona Capital,809-860-5049,betatechdistrib@betatech.do,2024-01-28,Activo
+163,CLI-163,EliteTech & Cía,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-466-8495,elitetechca@elitetec.do,2024-07-14,Inactivo
+164,CLI-164,Empresa Dominicana,Empresa Corporativa,Pedro Brand,Zona Capital,809-511-5099,empresadominica@empresad.do,2019-09-08,Activo
+165,CLI-165,NetStore Shop,Tienda Retail,Montecristi,Zona Oeste,809-510-9663,netstoreshop@netstore.do,2023-09-16,Activo
+166,CLI-166,Cyber Shop,Tienda Retail,Santo Domingo Norte,Zona Capital,809-402-3844,cybershop@cybersho.do,2021-02-25,Activo
+167,CLI-167,Distribuidora del Caribe,Empresa Corporativa,Santo Domingo,Zona Capital,809-812-2430,distribuidorade@distribu.do,2020-02-15,Activo
+168,CLI-168,Hospital CxA,Empresa Corporativa,Puerto Plata,Zona Este,809-344-8128,hospitalcxa@hospital.do,2020-04-24,Activo
+169,CLI-169,Seguros Internacional,Empresa Corporativa,San Cristóbal,Zona Capital,809-235-7171,segurosinternac@segurosi.do,2018-09-05,Activo
+170,CLI-170,NetWorld Group,Distribuidor Tecnológico,Los Alcarrizos,Zona Capital,809-929-1291,networldgroup@networld.do,2021-06-23,Activo
+171,CLI-171,CaribeTech Group,Distribuidor Tecnológico,Cabarete,Zona Oeste,809-957-1833,caribetechgroup@caribete.do,2024-05-25,Inactivo
+172,CLI-172,EliteTech & Cía,Distribuidor Tecnológico,Barahona,Zona Norte,809-755-2568,elitetechca@elitetec.do,2023-01-21,Activo
+173,CLI-173,Super Express,Tienda Retail,Puerto Plata,Zona Oeste,809-644-4360,superexpress@superexp.do,2023-08-25,Activo
+174,CLI-174,Corporación del Caribe,Empresa Corporativa,Santo Domingo,Zona Capital,809-550-9377,corporacióndelc@corporac.do,2021-05-06,Activo
+175,CLI-175,Clínica Nacional,Empresa Corporativa,La Romana,Zona Este,809-828-9150,clínicanacional@clínican.do,2022-09-24,Activo
+176,CLI-176,Empresa SA,Empresa Corporativa,Santo Domingo,Zona Capital,809-423-5878,empresasa@empresas.do,2018-02-11,Activo
+177,CLI-177,TechZone Plaza,Tienda Retail,Bonao,Zona Norte,809-621-5033,techzoneplaza@techzone.do,2021-02-13,Activo
+178,CLI-178,DigiDist SRL,Distribuidor Tecnológico,La Romana,Zona Este,809-946-5170,digidistsrl@digidist.do,2022-08-20,Activo
+179,CLI-179,ProTech SRL,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-526-4217,protechsrl@protechs.do,2020-09-04,Activo
+180,CLI-180,NetWorld & Cía,Distribuidor Tecnológico,Santo Domingo Este,Zona Capital,809-894-8209,networldcía@networld.do,2020-11-27,Activo
+181,CLI-181,Aerolínea SRL,Empresa Corporativa,Santiago,Zona Norte,809-821-2882,aerolíneasrl@aerolíne.do,2021-04-18,Activo
+182,CLI-182,Compu Depot,Tienda Retail,Cotuí,Zona Norte,809-891-6940,compudepot@compudep.do,2021-05-28,Activo
+183,CLI-183,NetStore Zone,Tienda Retail,Santo Domingo Este,Zona Capital,809-771-7157,netstorezone@netstore.do,2021-04-28,Activo
+184,CLI-184,Universidad Dominicana,Empresa Corporativa,Azua,Zona Capital,809-942-1713,universidaddomi@universi.do,2023-10-05,Activo
+185,CLI-185,Tech Hub,Tienda Retail,Baní,Zona Sur,809-932-7501,techhub@techhub.do,2023-06-24,Activo
+186,CLI-186,Cyber Point,Tienda Retail,Santo Domingo,Zona Capital,809-357-2213,cyberpoint@cyberpoi.do,2018-08-22,Activo
+187,CLI-187,DigiDist Distribuidores,Distribuidor Tecnológico,San Cristóbal,Zona Capital,809-699-3363,digidistdistrib@digidist.do,2020-03-01,Activo
+188,CLI-188,AlphaTech Solutions,Distribuidor Tecnológico,Baní,Zona Capital,809-643-7038,alphatechsoluti@alphatec.do,2023-10-14,Activo
+189,CLI-189,Compu Plaza,Tienda Retail,Sosúa,Zona Oeste,809-886-8605,compuplaza@compupla.do,2024-11-04,Inactivo
+190,CLI-190,TropicTech Solutions,Distribuidor Tecnológico,Baní,Zona Sur,809-409-8100,tropictechsolut@tropicte.do,2024-08-17,Activo
+191,CLI-191,Corporación Dominicana,Empresa Corporativa,Punta Cana,Zona Este,809-709-5410,corporacióndomi@corporac.do,2023-11-03,Activo
+192,CLI-192,DigiShop Market,Tienda Retail,San Pedro de Macorís,Zona Este,809-857-8754,digishopmarket@digishop.do,2021-03-13,Activo
+193,CLI-193,DigiShop Express,Tienda Retail,Santiago,Zona Norte,809-918-6219,digishopexpress@digishop.do,2021-12-19,Activo
+194,CLI-194,PrimeTech & Cía,Distribuidor Tecnológico,Punta Cana,Zona Este,809-252-9518,primetechcía@primetec.do,2021-12-06,Activo
+195,CLI-195,Ministerio CxA,Empresa Corporativa,Santo Domingo,Zona Capital,809-859-1583,ministeriocxa@minister.do,2018-06-07,Activo
+196,CLI-196,Supermercados Nacional,Empresa Corporativa,Ocoa,Zona Sur,809-797-3553,supermercadosna@supermer.do,2022-02-12,Activo
+197,CLI-197,BetaTech Distribuidores,Distribuidor Tecnológico,Moca,Zona Norte,809-771-2716,betatechdistrib@betatech.do,2020-04-20,Activo
+198,CLI-198,Mega Plaza,Tienda Retail,Santo Domingo,Zona Capital,809-920-1624,megaplaza@megaplaz.do,2021-02-08,Activo
+199,CLI-199,DigiDist Partners,Distribuidor Tecnológico,Punta Cana,Zona Este,809-905-2841,digidistpartner@digidist.do,2022-12-16,Activo
+200,CLI-200,NetStore Point,Tienda Retail,Santo Domingo Este,Zona Capital,809-743-5710,netstorepoint@netstore.do,2020-12-25,Activo
+201,CLI-201,Compu Express,Tienda Retail,Santiago,Zona Norte,809-635-7174,compuexpress@compuexp.do,2022-10-09,Activo
+202,CLI-202,Aerolínea Internacional,Empresa Corporativa,Los Alcarrizos,Zona Capital,809-986-2101,aerolíneaintern@aerolíne.do,2021-06-16,Activo
+203,CLI-203,EliteTech SRL,Distribuidor Tecnológico,San Cristóbal,Zona Capital,809-595-3567,elitetechsrl@elitetec.do,2022-07-16,Activo
+204,CLI-204,PC Store,Tienda Retail,La Romana,Zona Este,809-533-9489,pcstore@pcstore.do,2023-05-05,Inactivo
+205,CLI-205,Compu Point,Tienda Retail,La Romana,Zona Este,809-358-1293,compupoint@compupoi.do,2022-02-04,Activo
+206,CLI-206,Mega Hub,Tienda Retail,Santo Domingo,Zona Capital,809-809-2394,megahub@megahub.do,2020-08-16,Activo
+207,CLI-207,Hotel SA,Empresa Corporativa,Barahona,Zona Capital,809-717-5533,hotelsa@hotelsa.do,2022-01-09,Activo
+208,CLI-208,Distribuidora & Asociados,Empresa Corporativa,Santiago,Zona Norte,809-860-5735,distribuidoraas@distribu.do,2019-11-05,Activo
+209,CLI-209,Cyber Depot,Tienda Retail,Higüey,Zona Este,809-699-8632,cyberdepot@cyberdep.do,2021-02-24,Activo
+210,CLI-210,Smart Depot,Tienda Retail,San Juan de la Maguana,Zona Norte,809-242-6593,smartdepot@smartdep.do,2021-09-27,Activo
+211,CLI-211,Smart Store,Tienda Retail,Pedernales,Zona Sur,809-760-5161,smartstore@smartsto.do,2023-02-16,Activo
+212,CLI-212,NetStore Depot,Tienda Retail,San Pedro de Macorís,Zona Este,809-535-5425,netstoredepot@netstore.do,2023-01-06,Activo
+213,CLI-213,EliteTech Group,Distribuidor Tecnológico,Barahona,Zona Sur,809-417-7935,elitetechgro@elitetec.do,2024-10-22,Activo
+214,CLI-214,IslandTech & Cía,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-637-2184,islandtechcía@islandte.do,2020-03-10,Activo
+215,CLI-215,Hospital & Asociados,Empresa Corporativa,Barahona,Zona Este,809-229-6508,hospitalasociad@hospital.do,2024-03-03,Activo
+216,CLI-216,Smart Center,Tienda Retail,Baní,Zona Sur,809-340-4961,smartcenter@smartcen.do,2023-02-22,Activo
+217,CLI-217,Farmacia Nacional,Empresa Corporativa,Los Alcarrizos,Zona Capital,809-938-1863,farmacianaciona@farmacia.do,2022-08-26,Activo
+218,CLI-218,Importadora CxA,Empresa Corporativa,Moca,Zona Norte,809-319-3835,importadoracxa@importad.do,2021-04-10,Activo
+219,CLI-219,Grupo Nacional,Empresa Corporativa,Azua,Zona Sur,809-875-9549,gruponacional@gruponac.do,2024-02-26,Activo
+220,CLI-220,Colegio Internacional,Empresa Corporativa,Boca Chica,Zona Capital,809-381-6369,colegiointernac@colegioi.do,2021-08-17,Activo
+221,CLI-221,Hospital Internacional,Empresa Corporativa,Moca,Zona Norte,809-205-2786,hospitalinterna@hospital.do,2021-12-27,Activo
+222,CLI-222,ProTech Group,Distribuidor Tecnológico,Cotuí,Zona Norte,809-264-2434,protechgroup@protechg.do,2020-09-11,Activo
+223,CLI-223,ElectroTech Depot,Tienda Retail,Santiago,Zona Norte,809-299-2830,electrotechdepo@electrot.do,2022-09-01,Activo
+224,CLI-224,ProTech & Cía,Distribuidor Tecnológico,Azua,Zona Sur,809-722-8609,protechca@protechc.do,2022-08-23,Activo
+225,CLI-225,Clínica del Caribe,Empresa Corporativa,Nagua,Zona Norte,809-687-5727,clínicadelcarib@clínicad.do,2023-06-10,Activo
+226,CLI-226,Clínica CxA,Empresa Corporativa,San Cristóbal,Zona Capital,809-724-2686,clínicacxa@clínicac.do,2018-07-04,Activo
+227,CLI-227,Banco SRL,Empresa Corporativa,Azua,Zona Sur,809-558-5542,bancosrl@bancosrl.do,2024-08-11,Activo
+228,CLI-228,Cyber Zone,Tienda Retail,Pedernales,Zona Norte,809-586-5067,cyberzone@cyberzon.do,2019-01-26,Activo
+229,CLI-229,Constructora Nacional,Empresa Corporativa,Santo Domingo,Zona Capital,809-394-6392,constructoranac@construc.do,2023-09-08,Activo
+230,CLI-230,Compu Store,Tienda Retail,Moca,Zona Norte,809-697-4885,compustore@compusto.do,2021-08-15,Activo
+231,CLI-231,Banco Internacional,Empresa Corporativa,Los Alcarrizos,Zona Capital,809-471-7391,bancointernacio@bancoint.do,2018-01-06,Activo
+232,CLI-232,Servicios SA,Empresa Corporativa,San Cristóbal,Zona Capital,809-758-6769,serviciossa@servicio.do,2022-06-23,Activo
+233,CLI-233,TechZone Hub,Tienda Retail,Santiago,Zona Norte,809-294-8139,techzonehub@techzone.do,2022-11-28,Activo
+234,CLI-234,CompuWorld Shop,Tienda Retail,Valverde (Mao),Zona Oeste,809-901-3807,compuworldsh@compuwor.do,2022-11-10,Activo
+235,CLI-235,DigiShop Express,Tienda Retail,Barahona,Zona Sur,809-766-8367,digishopexpress@digishop.do,2024-12-06,Activo
+236,CLI-236,TechDist Distribuidores,Distribuidor Tecnológico,Azua,Zona Sur,809-832-1763,techdistdistrib@techdist.do,2024-07-05,Activo
+237,CLI-237,CompuWorld Center,Tienda Retail,Bonao,Zona Norte,809-769-1824,compuworldcente@compuwor.do,2020-12-13,Activo
+238,CLI-238,TechDist SRL,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-817-4385,techdistsrl@techdist.do,2021-02-19,Activo
+239,CLI-239,Importadora Internacional,Empresa Corporativa,Pedernales,Zona Capital,809-209-2899,importadorainte@importad.do,2022-09-27,Activo
+240,CLI-240,Super Store,Tienda Retail,Barahona,Zona Sur,809-286-7034,superstore@supersto.do,2024-11-18,Inactivo
+241,CLI-241,TropicTech Partners,Distribuidor Tecnológico,La Romana,Zona Este,809-874-6228,tropictechpartn@tropicte.do,2023-09-19,Activo
+242,CLI-242,Empresa Nacional,Empresa Corporativa,Los Alcarrizos,Zona Capital,809-447-9314,empresanacional@empresan.do,2021-08-18,Activo
+243,CLI-243,Universidad Nacional,Empresa Corporativa,Santo Domingo,Zona Capital,809-582-7218,universidadnaci@universi.do,2022-10-17,Activo
+244,CLI-244,NetStore Shop,Tienda Retail,Higüey,Zona Este,809-598-6751,netstoreshop@netstore.do,2021-09-02,Activo
+245,CLI-245,Mega Center,Tienda Retail,Nagua,Zona Norte,809-408-4149,megacenter@megacent.do,2021-05-16,Activo
+246,CLI-246,NetStore Depot,Tienda Retail,San Juan de la Maguana,Zona Sur,809-771-1879,netstoredepo@netstore.do,2024-10-22,Inactivo
+247,CLI-247,Hospital SA,Empresa Corporativa,Santo Domingo,Zona Capital,809-863-7363,hospitalsa@hospital.do,2020-05-11,Activo
+248,CLI-248,Ministerio Internacional,Empresa Corporativa,Santo Domingo,Zona Capital,809-372-3349,ministeriointer@minister.do,2018-01-19,Activo
+249,CLI-249,Farmacia Dominicana,Empresa Corporativa,Santiago,Zona Norte,809-241-2869,farmaciadominic@farmacia.do,2018-03-27,Activo
+250,CLI-250,Hotel del Caribe,Empresa Corporativa,San Francisco de Macorís,Zona Norte,809-443-3472,hoteldelcaribe@hoteldel.do,2020-06-26,Activo
+251,CLI-251,Super Market,Tienda Retail,Pedro Brand,Zona Capital,809-965-3742,supermarket@supermar.do,2022-01-25,Activo
+252,CLI-252,Tech Market,Tienda Retail,San Cristóbal,Zona Capital,809-580-7138,techmarket@techmark.do,2020-07-04,Activo
+253,CLI-253,TropicTech SRL,Distribuidor Tecnológico,Montecristi,Zona Oeste,809-278-5605,tropictechsr@tropicte.do,2021-11-05,Activo
+254,CLI-254,OmegaTech SRL,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-485-6689,omegatechsrl@omegatec.do,2021-06-12,Activo
+255,CLI-255,TropicTech Solutions,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-216-3846,tropictechsolut@tropicte.do,2024-06-02,Inactivo
+256,CLI-256,TechZone Zone,Tienda Retail,Santo Domingo Oeste,Zona Capital,809-397-3812,techzonezone@techzone.do,2019-04-08,Activo
+257,CLI-257,Constructora & Asociados,Empresa Corporativa,San Pedro de Macorís,Zona Este,809-857-3807,constructoraaso@construc.do,2023-05-19,Activo
+258,CLI-258,NetWorld Solutions,Distribuidor Tecnológico,Hato Mayor,Zona Este,809-911-2770,networldsolutio@networld.do,2021-12-03,Activo
+259,CLI-259,Tech Depot,Tienda Retail,Moca,Zona Norte,809-756-4564,techdepot@techdepo.do,2020-02-11,Activo
+260,CLI-260,Industrias & Asociados,Empresa Corporativa,Bonao,Zona Norte,809-749-8212,industriasasoci@industri.do,2019-01-18,Activo
+261,CLI-261,ElectroTech Store,Tienda Retail,San Juan de la Maguana,Zona Sur,809-723-3982,electrotechstor@electrot.do,2023-12-23,Activo
+262,CLI-262,ElectroTech Market,Tienda Retail,Boca Chica,Zona Capital,809-272-1012,electrotechmark@electrot.do,2022-11-14,Activo
+263,CLI-263,AlphaTech Partners,Distribuidor Tecnológico,Barahona,Zona Sur,809-751-7114,alphatechpartne@alphatec.do,2024-01-15,Inactivo
+264,CLI-264,Super Hub,Tienda Retail,Santo Domingo,Zona Capital,809-989-8613,superhub@superhub.do,2021-10-17,Activo
+265,CLI-265,MaxTech SRL,Distribuidor Tecnológico,Barahona,Zona Capital,809-974-1579,maxtechsrl@maxtechs.do,2024-05-01,Inactivo
+266,CLI-266,TropicTech Distribuidores,Distribuidor Tecnológico,San Pedro de Macorís,Zona Este,809-211-6244,tropictechdistr@tropicte.do,2023-08-19,Activo
+267,CLI-267,NetWorld Partners,Distribuidor Tecnológico,Higüey,Zona Este,809-357-4047,networldpartner@networld.do,2021-06-13,Activo
+268,CLI-268,Smart Zone,Tienda Retail,Azua,Zona Sur,809-315-4893,smartzone@smartzon.do,2023-03-28,Activo
+269,CLI-269,Corporación CxA,Empresa Corporativa,San Juan de la Maguana,Zona Norte,809-769-5378,corporacióncxa@corporac.do,2023-11-18,Activo
+270,CLI-270,NetStore Zone,Tienda Retail,Barahona,Zona Norte,809-333-3700,netstorezone@netstore.do,2023-12-07,Activo
+271,CLI-271,Distribuidora Dominicana,Empresa Corporativa,San Juan de la Maguana,Zona Sur,809-562-6470,distribuidorado@distribu.do,2022-10-26,Activo
+272,CLI-272,Grupo & Asociados,Empresa Corporativa,Santo Domingo Este,Zona Capital,809-898-2588,grupoasociados@grupoaso.do,2022-07-11,Activo
+273,CLI-273,Distribuidora Internacional,Empresa Corporativa,Santo Domingo,Zona Capital,809-531-2684,distribuidorain@distribu.do,2022-02-26,Activo
+274,CLI-274,Digital Plaza,Tienda Retail,El Seibo,Zona Este,809-851-8635,digitalplaza@digitalp.do,2022-02-23,Activo
+275,CLI-275,NetStore Plaza,Tienda Retail,Barahona,Zona Sur,809-827-2896,netstoreplaz@netstore.do,2023-06-16,Inactivo
+276,CLI-276,Importadora Dominicana,Empresa Corporativa,Puerto Plata,Zona Oeste,809-795-9929,importadoradomi@importad.do,2024-03-20,Inactivo
+277,CLI-277,Hospital SRL,Empresa Corporativa,Azua,Zona Capital,809-627-5028,hospitalsrl@hospital.do,2022-08-20,Activo
+278,CLI-278,Smart Zone,Tienda Retail,Dajabón,Zona Oeste,809-689-9860,smartzone@smartzon.do,2024-06-14,Inactivo
+279,CLI-279,Smart Store,Tienda Retail,Higüey,Zona Este,809-573-6247,smartstore@smartsto.do,2021-08-21,Activo
+280,CLI-280,Banco Nacional,Empresa Corporativa,Santo Domingo Norte,Zona Capital,809-557-4575,banconacional@banconac.do,2018-09-07,Activo
+281,CLI-281,Universidad SRL,Empresa Corporativa,Barahona,Zona Sur,809-556-1751,universidadsrl@universi.do,2023-12-17,Activo
+282,CLI-282,Empresa Internacional,Empresa Corporativa,Barahona,Zona Norte,809-508-7672,empresainternac@empresai.do,2020-07-25,Activo
+283,CLI-283,Super Shop,Tienda Retail,Santo Domingo,Zona Capital,809-979-9406,supershop@supersho.do,2020-05-02,Activo
+284,CLI-284,Servicios del Caribe,Empresa Corporativa,Montecristi,Zona Oeste,809-630-7781,serviciosdelcar@servicio.do,2022-04-04,Activo
+285,CLI-285,Distribuidora SA,Empresa Corporativa,Moca,Zona Norte,809-927-1276,distribuidorasa@distribu.do,2020-10-13,Activo
+286,CLI-286,BetaTech & Cía,Distribuidor Tecnológico,Santiago,Zona Norte,809-379-9564,betatechcía@betatech.do,2019-10-24,Activo
+287,CLI-287,OmegaTech & Cía,Distribuidor Tecnológico,Santiago,Zona Norte,809-692-9561,omegatechcía@omegatec.do,2022-05-01,Activo
+288,CLI-288,Cyber Zone,Tienda Retail,Valverde (Mao),Zona Oeste,809-617-3531,cyberzone@cyberzon.do,2022-04-27,Inactivo
+289,CLI-289,TechDist Distribuidores,Distribuidor Tecnológico,San Pedro de Macorís,Zona Este,809-849-7931,techdistdistrib@techdist.do,2021-12-28,Activo
+290,CLI-290,Mega Plaza,Tienda Retail,Puerto Plata,Zona Oeste,809-659-4410,megaplaza@megaplaz.do,2022-05-15,Activo
+291,CLI-291,Financiera Internacional,Empresa Corporativa,Neiba,Zona Sur,809-811-7443,financierainter@financie.do,2023-10-11,Activo
+292,CLI-292,Farmacia CxA,Empresa Corporativa,Cotuí,Zona Norte,809-900-9364,farmaciacxa@farmacia.do,2020-02-19,Activo
+293,CLI-293,AlphaTech & Cía,Distribuidor Tecnológico,San Cristóbal,Zona Capital,809-377-6388,alphatechcía@alphatec.do,2022-08-14,Activo
+294,CLI-294,CompuWorld Market,Tienda Retail,Santiago,Zona Norte,809-470-2091,compuworldmarke@compuwor.do,2019-06-26,Activo
+295,CLI-295,Universidad Internacional,Empresa Corporativa,Bonao,Zona Norte,809-461-4499,universidadinte@universi.do,2018-11-27,Activo
+296,CLI-296,CaribeTech Partners,Distribuidor Tecnológico,San Pedro de Macorís,Zona Este,809-324-4280,caribetechpartn@caribete.do,2022-09-26,Activo
+297,CLI-297,Distribuidora Nacional,Empresa Corporativa,Higüey,Zona Este,809-884-3580,distribuidorana@distribu.do,2022-07-22,Activo
+298,CLI-298,Seguros Nacional,Empresa Corporativa,Santo Domingo Norte,Zona Capital,809-462-8060,segurosnacional@segurosn.do,2022-06-07,Activo
+299,CLI-299,Financiera & Asociados,Empresa Corporativa,Azua,Zona Capital,809-211-3165,financieraasoci@financie.do,2024-07-09,Inactivo
+300,CLI-300,Super Market,Tienda Retail,Puerto Plata,Zona Oeste,809-424-9637,supermarket@supermar.do,2024-11-25,Inactivo
+301,CLI-301,MaxTech SRL,Distribuidor Tecnológico,Valverde (Mao),Zona Oeste,809-443-2852,maxtechsrl@maxtechs.do,2023-01-21,Inactivo
+302,CLI-302,DigiShop Hub,Tienda Retail,Dajabón,Zona Oeste,809-395-4297,digishophub@digishop.do,2023-10-16,Inactivo
+303,CLI-303,Hospital SA,Empresa Corporativa,Montecristi,Zona Oeste,809-920-8696,hospitalsa@hospital.do,2022-12-23,Activo
+304,CLI-304,BetaTech Partners,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-988-9218,betatechpartner@betatech.do,2019-11-27,Activo
+305,CLI-305,Grupo SRL,Empresa Corporativa,La Vega,Zona Norte,809-397-5399,gruposrl@gruposrl.do,2021-05-21,Activo
+306,CLI-306,TechZone Shop,Tienda Retail,Santo Domingo,Zona Capital,809-640-5700,techzoneshop@techzone.do,2022-10-28,Activo
+307,CLI-307,Seguros Dominicana,Empresa Corporativa,La Romana,Zona Este,809-605-1784,segurosdominica@segurosd.do,2022-10-24,Activo
+308,CLI-308,ByteStore Express,Tienda Retail,Santo Domingo,Zona Capital,809-814-4240,bytestoreexpres@bytestor.do,2018-09-07,Activo
+309,CLI-309,Compu Shop,Tienda Retail,Santo Domingo Oeste,Zona Capital,809-273-2336,compushop@compusho.do,2020-08-05,Activo
+310,CLI-310,Supermercados Internacional,Empresa Corporativa,San Francisco de Macorís,Zona Norte,809-707-9353,supermercadosin@supermer.do,2019-03-24,Activo
+311,CLI-311,Mega Express,Tienda Retail,Santiago,Zona Norte,809-321-9167,megaexpress@megaexpr.do,2020-07-14,Activo
+312,CLI-312,NetWorld Distribuidores,Distribuidor Tecnológico,San Francisco de Macorís,Zona Norte,809-276-7186,networlddistrib@networld.do,2020-02-21,Activo
+313,CLI-313,Smart Express,Tienda Retail,Santo Domingo Oeste,Zona Capital,809-417-8246,smartexpress@smartexp.do,2019-07-09,Activo
+314,CLI-314,Digital Store,Tienda Retail,San Pedro de Macorís,Zona Este,809-814-1035,digitalstore@digitals.do,2022-11-06,Activo
+315,CLI-315,EliteTech Solutions,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-831-8220,elitetechsoluti@elitetec.do,2020-11-20,Activo
+316,CLI-316,ElectroTech Point,Tienda Retail,Santiago,Zona Norte,809-403-7782,electrotechpoin@electrot.do,2019-07-08,Activo
+317,CLI-317,Smart Zone,Tienda Retail,Santiago,Zona Norte,809-701-8826,smartzone@smartzon.do,2021-12-01,Activo
+318,CLI-318,BetaTech Group,Distribuidor Tecnológico,Higüey,Zona Este,809-547-4996,betatechgroup@betatech.do,2021-03-07,Activo
+319,CLI-319,Banco SA,Empresa Corporativa,Boca Chica,Zona Capital,809-324-1290,bancosa@bancosa.do,2018-04-26,Activo
+320,CLI-320,Supermercados del Caribe,Empresa Corporativa,Nagua,Zona Norte,809-470-8201,supermercadosde@supermer.do,2020-08-16,Activo
+321,CLI-321,OmegaTech Group,Distribuidor Tecnológico,Bonao,Zona Norte,809-982-7835,omegatechgroup@omegatec.do,2022-07-14,Activo
+322,CLI-322,NetStore Express,Tienda Retail,Puerto Plata,Zona Oeste,809-577-4865,netstoreexpress@netstore.do,2023-04-06,Inactivo
+323,CLI-323,Aerolínea Nacional,Empresa Corporativa,Punta Cana,Zona Este,809-396-2191,aerolíneanacion@aerolíne.do,2022-03-01,Activo
+324,CLI-324,Clínica Internacional,Empresa Corporativa,La Romana,Zona Este,809-952-4710,clínicainternac@clínicai.do,2022-05-22,Activo
+325,CLI-325,EliteTech Group,Distribuidor Tecnológico,Boca Chica,Zona Capital,809-228-2208,elitetechgroup@elitetec.do,2020-02-05,Inactivo
+326,CLI-326,ByteStore Center,Tienda Retail,Higüey,Zona Este,809-687-4789,bytestorecenter@bytestor.do,2023-03-21,Activo
+327,CLI-327,ElectroTech Plaza,Tienda Retail,Higüey,Zona Este,809-538-1034,electrotechplaz@electrot.do,2021-12-16,Activo
+328,CLI-328,Info Store,Tienda Retail,Puerto Plata,Zona Oeste,809-553-3760,infostore@infostor.do,2022-09-21,Activo
+329,CLI-329,ProTech & Cía,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-672-3562,protechca@protechc.do,2023-01-28,Inactivo
+330,CLI-330,Cyber Center,Tienda Retail,Santiago,Zona Norte,809-493-5465,cybercenter@cybercen.do,2018-06-20,Activo
+331,CLI-331,PrimeTech SRL,Distribuidor Tecnológico,Boca Chica,Zona Capital,809-776-4419,primetechsrl@primetec.do,2020-02-14,Activo
+332,CLI-332,Tech Depot,Tienda Retail,Valverde (Mao),Zona Oeste,809-535-5025,techdepot@techdepo.do,2024-11-22,Inactivo
+333,CLI-333,NetStore Hub,Tienda Retail,Sosúa,Zona Capital,809-289-5604,netstorehub@netstore.do,2022-07-03,Activo
+334,CLI-334,ByteStore Hub,Tienda Retail,Santo Domingo Norte,Zona Capital,809-840-8804,bytestorehub@bytestor.do,2018-07-27,Activo
+335,CLI-335,NetStore Express,Tienda Retail,San Francisco de Macorís,Zona Norte,809-800-6176,netstoreexpress@netstore.do,2019-04-04,Activo
+336,CLI-336,Industrias SA,Empresa Corporativa,Punta Cana,Zona Este,809-218-6114,industriassa@industri.do,2023-12-17,Activo
+337,CLI-337,Tech Point,Tienda Retail,Barahona,Zona Capital,809-626-9576,techpoint@techpoin.do,2020-02-04,Activo
+338,CLI-338,ProTech Partners,Distribuidor Tecnológico,Santo Domingo Este,Zona Capital,809-665-9498,protechpartners@protechp.do,2018-09-22,Activo
+339,CLI-339,Tech Plaza,Tienda Retail,Santo Domingo,Zona Capital,809-384-5922,techplaza@techplaz.do,2022-09-09,Activo
+340,CLI-340,Financiera SA,Empresa Corporativa,Los Alcarrizos,Zona Capital,809-938-6143,financierasa@financie.do,2021-02-08,Activo
+341,CLI-341,BetaTech Solutions,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-974-2640,betatechsolutio@betatech.do,2022-02-25,Activo
+342,CLI-342,Clínica SA,Empresa Corporativa,Santo Domingo,Zona Capital,809-692-2952,clínicasa@clínicas.do,2020-06-27,Activo
+343,CLI-343,Tech Shop,Tienda Retail,San Pedro de Macorís,Zona Este,809-914-9172,techshop@techshop.do,2023-12-13,Activo
+344,CLI-344,TechDist SRL,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-430-1017,techdistsrl@techdist.do,2023-07-07,Inactivo
+345,CLI-345,Importadora SRL,Empresa Corporativa,Barahona,Zona Sur,809-201-2938,importadorasrl@importad.do,2023-09-08,Activo
+346,CLI-346,CompuWorld Express,Tienda Retail,Punta Cana,Zona Este,809-441-1362,compuworldexpre@compuwor.do,2021-02-06,Activo
+347,CLI-347,Digital Zone,Tienda Retail,Barahona,Zona Capital,809-570-3567,digitalzone@digitalz.do,2023-09-21,Activo
+348,CLI-348,DigiShop Point,Tienda Retail,Baní,Zona Sur,809-232-6110,digishoppoin@digishop.do,2023-05-15,Activo
+349,CLI-349,TechZone Hub,Tienda Retail,Pedernales,Zona Sur,809-947-5910,techzonehub@techzone.do,2024-01-23,Activo
+350,CLI-350,NetWorld Group,Distribuidor Tecnológico,Baní,Zona Norte,809-241-2282,networldgrou@networld.do,2024-05-28,Activo
+351,CLI-351,Farmacia Internacional,Empresa Corporativa,Higüey,Zona Este,809-988-6373,farmaciainterna@farmacia.do,2023-01-16,Activo
+352,CLI-352,Importadora SA,Empresa Corporativa,Los Alcarrizos,Zona Capital,809-365-3727,importadorasa@importad.do,2024-06-09,Activo
+353,CLI-353,NetStore Depot,Tienda Retail,Puerto Plata,Zona Oeste,809-550-2455,netstoredepo@netstore.do,2022-07-16,Activo
+354,CLI-354,DigiShop Zone,Tienda Retail,Santiago,Zona Norte,809-285-9432,digishopzone@digishop.do,2021-07-03,Activo
+355,CLI-355,CompuWorld Plaza,Tienda Retail,Puerto Plata,Zona Oeste,809-344-3783,compuworldplaza@compuwor.do,2024-09-09,Activo
+356,CLI-356,TechZone Point,Tienda Retail,San Cristóbal,Zona Capital,809-802-5338,techzonepoint@techzone.do,2022-06-23,Activo
+357,CLI-357,Corporación Internacional,Empresa Corporativa,Santo Domingo,Zona Capital,809-251-5798,corporacióninte@corporac.do,2018-06-18,Activo
+358,CLI-358,ITDist Distribuidores,Distribuidor Tecnológico,Azua,Zona Norte,809-450-6354,itdistdistribui@itdistdi.do,2021-01-26,Activo
+359,CLI-359,Grupo & Asociados,Empresa Corporativa,Valverde (Mao),Zona Oeste,809-308-3586,grupoasociad@grupoaso.do,2024-08-22,Inactivo
+360,CLI-360,Banco Dominicana,Empresa Corporativa,Bonao,Zona Norte,809-534-1850,bancodominicana@bancodom.do,2019-05-26,Activo
+361,CLI-361,Seguros SA,Empresa Corporativa,Baní,Zona Capital,809-295-4138,segurossa@seguross.do,2023-06-16,Activo
+362,CLI-362,Empresa & Asociados,Empresa Corporativa,Santo Domingo,Zona Capital,809-985-6475,empresaasociado@empresaa.do,2020-05-01,Activo
+363,CLI-363,ITDist SRL,Distribuidor Tecnológico,Barahona,Zona Sur,809-428-2347,itdistsrl@itdistsr.do,2023-12-22,Activo
+364,CLI-364,ByteStore Plaza,Tienda Retail,Santiago,Zona Norte,809-376-2574,bytestoreplaza@bytestor.do,2018-12-26,Activo
+365,CLI-365,NetWorld Partners,Distribuidor Tecnológico,La Vega,Zona Norte,809-320-1234,networldpartner@networld.do,2023-05-02,Activo
+366,CLI-366,Seguros SRL,Empresa Corporativa,Santiago,Zona Norte,809-994-9508,segurossrl@seguross.do,2023-06-28,Activo
+367,CLI-367,DigiDist Group,Distribuidor Tecnológico,Santiago,Zona Norte,809-638-3555,digidistgroup@digidist.do,2019-05-18,Activo
+368,CLI-368,Constructora del Caribe,Empresa Corporativa,Santiago,Zona Norte,809-393-2879,constructoradel@construc.do,2021-05-21,Activo
+369,CLI-369,Tech Express,Tienda Retail,Santo Domingo Este,Zona Capital,809-507-3602,techexpress@techexpr.do,2020-11-04,Activo
+370,CLI-370,Info Plaza,Tienda Retail,La Vega,Zona Norte,809-749-3912,infoplaza@infoplaz.do,2024-03-12,Activo
+371,CLI-371,AlphaTech Distribuidores,Distribuidor Tecnológico,Punta Cana,Zona Este,809-217-5469,alphatechdistri@alphatec.do,2023-04-28,Activo
+372,CLI-372,Digital Hub,Tienda Retail,Santo Domingo,Zona Capital,809-674-6253,digitalhub@digitalh.do,2021-07-01,Activo
+373,CLI-373,Colegio Dominicana,Empresa Corporativa,Santo Domingo Oeste,Zona Capital,809-670-3834,colegiodominica@colegiod.do,2021-05-10,Activo
+374,CLI-374,IslandTech Group,Distribuidor Tecnológico,Nagua,Zona Norte,809-744-7844,islandtechgroup@islandte.do,2022-07-07,Activo
+375,CLI-375,Info Plaza,Tienda Retail,Neiba,Zona Norte,809-821-2654,infoplaza@infoplaz.do,2024-01-02,Activo
+376,CLI-376,Universidad & Asociados,Empresa Corporativa,Moca,Zona Norte,809-509-1693,universidadasoc@universi.do,2018-04-10,Activo
+377,CLI-377,IslandTech SRL,Distribuidor Tecnológico,Santiago Rodríguez,Zona Oeste,809-271-2122,islandtechsr@islandte.do,2021-07-24,Activo
+378,CLI-378,PC Plaza,Tienda Retail,Cotuí,Zona Norte,809-557-6342,pcplaza@pcplaza.do,2019-03-15,Activo
+379,CLI-379,Cyber Hub,Tienda Retail,Sosúa,Zona Oeste,809-789-2103,cyberhub@cyberhub.do,2024-11-14,Inactivo
+380,CLI-380,TropicTech SRL,Distribuidor Tecnológico,La Romana,Zona Este,809-550-2804,tropictechsr@tropicte.do,2021-05-28,Activo
+381,CLI-381,TropicTech & Cía,Distribuidor Tecnológico,Punta Cana,Zona Este,809-848-6757,tropictechca@tropicte.do,2021-08-16,Activo
+382,CLI-382,Super Zone,Tienda Retail,Montecristi,Zona Oeste,809-804-4252,superzone@superzon.do,2023-08-27,Activo
+383,CLI-383,Clínica & Asociados,Empresa Corporativa,Santo Domingo,Zona Capital,809-764-6180,clínicaasociado@clínicaa.do,2021-06-23,Activo
+384,CLI-384,Distribuidora SRL,Empresa Corporativa,Salcedo,Zona Norte,809-356-7139,distribuidorasr@distribu.do,2021-02-27,Activo
+385,CLI-385,Compu Zone,Tienda Retail,San Pedro de Macorís,Zona Este,809-667-5574,compuzone@compuzon.do,2021-12-09,Activo
+386,CLI-386,EliteTech Partners,Distribuidor Tecnológico,La Romana,Zona Este,809-692-3456,elitetechpartne@elitetec.do,2023-02-12,Activo
+387,CLI-387,Supermercados & Asociados,Empresa Corporativa,Barahona,Zona Norte,809-334-8487,supermercadosas@supermer.do,2022-07-12,Activo
+388,CLI-388,Servicios CxA,Empresa Corporativa,Santo Domingo Oeste,Zona Capital,809-332-5704,servicioscxa@servicio.do,2021-10-24,Activo
+389,CLI-389,OmegaTech Distribuidores,Distribuidor Tecnológico,Santo Domingo Oeste,Zona Capital,809-358-1539,omegatechdistri@omegatec.do,2022-12-11,Activo
+390,CLI-390,CompuWorld Point,Tienda Retail,Higüey,Zona Este,809-291-5419,compuworldpoint@compuwor.do,2022-12-01,Activo
+391,CLI-391,TechDist Partners,Distribuidor Tecnológico,Boca Chica,Zona Capital,809-582-1057,techdistpartner@techdist.do,2018-11-21,Activo
+392,CLI-392,Supermercados del Caribe,Empresa Corporativa,Sosúa,Zona Oeste,809-816-9285,supermercadosde@supermer.do,2022-05-11,Activo
+393,CLI-393,PrimeTech Distribuidores,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-393-3508,primetechdistri@primetec.do,2023-11-15,Inactivo
+394,CLI-394,CaribeTech Solutions,Distribuidor Tecnológico,Boca Chica,Zona Capital,809-908-4063,caribetechsolut@caribete.do,2019-01-13,Activo
+395,CLI-395,Aerolínea SRL,Empresa Corporativa,Puerto Plata,Zona Oeste,809-514-6534,aerolneasrl@aerolíne.do,2023-11-10,Inactivo
+396,CLI-396,Info Express,Tienda Retail,La Romana,Zona Este,809-351-1962,infoexpress@infoexpr.do,2022-10-03,Activo
+397,CLI-397,ITDist SRL,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-956-2820,itdistsrl@itdistsr.do,2020-11-17,Activo
+398,CLI-398,Grupo & Asociados,Empresa Corporativa,Puerto Plata,Zona Oeste,809-987-3390,grupoasociad@grupoaso.do,2023-03-08,Inactivo
+399,CLI-399,NetStore Hub,Tienda Retail,Santiago,Zona Norte,809-413-7003,netstorehub@netstore.do,2023-01-13,Activo
+400,CLI-400,ITDist Group,Distribuidor Tecnológico,Santo Domingo Este,Zona Capital,809-466-5969,itdistgroup@itdistgr.do,2022-12-25,Activo
+401,CLI-401,Importadora del Caribe,Empresa Corporativa,La Vega,Zona Norte,809-690-9317,importadoradelc@importad.do,2019-10-22,Activo
+402,CLI-402,AlphaTech Group,Distribuidor Tecnológico,La Romana,Zona Este,809-876-5884,alphatechgroup@alphatec.do,2022-06-15,Activo
+403,CLI-403,Tech Shop,Tienda Retail,Puerto Plata,Zona Oeste,809-913-7215,techshop@techshop.do,2023-12-25,Activo
+404,CLI-404,CompuWorld Hub,Tienda Retail,Barahona,Zona Sur,809-531-7889,compuworldhu@compuwor.do,2024-12-05,Activo
+405,CLI-405,ElectroTech Zone,Tienda Retail,Santiago,Zona Norte,809-314-2426,electrotechzone@electrot.do,2020-03-22,Activo
+406,CLI-406,MaxTech & Cía,Distribuidor Tecnológico,Bonao,Zona Norte,809-979-8034,maxtechcía@maxtechc.do,2022-06-26,Activo
+407,CLI-407,NetStore Shop,Tienda Retail,Azua,Zona Sur,809-242-1375,netstoreshop@netstore.do,2019-08-09,Activo
+408,CLI-408,TechDist Group,Distribuidor Tecnológico,Boca Chica,Zona Capital,809-435-4088,techdistgroup@techdist.do,2020-04-03,Activo
+409,CLI-409,TechZone Plaza,Tienda Retail,Sosúa,Zona Norte,809-717-6651,techzoneplaz@techzone.do,2024-06-06,Inactivo
+410,CLI-410,Banco & Asociados,Empresa Corporativa,Santo Domingo Oeste,Zona Capital,809-807-2664,bancoasociados@bancoaso.do,2021-07-27,Activo
+411,CLI-411,Compu Express,Tienda Retail,Baní,Zona Capital,809-456-9757,compuexpress@compuexp.do,2020-06-08,Activo
+412,CLI-412,Distribuidora & Asociados,Empresa Corporativa,Cabarete,Zona Capital,809-783-4796,distribuidoraas@distribu.do,2024-10-14,Activo
+413,CLI-413,Importadora Nacional,Empresa Corporativa,Boca Chica,Zona Capital,809-695-1548,importadoranaci@importad.do,2022-04-01,Activo
+414,CLI-414,Super Point,Tienda Retail,Boca Chica,Zona Capital,809-732-8968,superpoint@superpoi.do,2018-09-21,Activo
+415,CLI-415,Banco CxA,Empresa Corporativa,La Romana,Zona Este,809-793-9771,bancocxa@bancocxa.do,2023-11-08,Activo
+416,CLI-416,ByteStore Depot,Tienda Retail,Pedro Brand,Zona Capital,809-437-4419,bytestoredepot@bytestor.do,2018-08-07,Activo
+417,CLI-417,Seguros CxA,Empresa Corporativa,Azua,Zona Norte,809-350-3469,seguroscxa@segurosc.do,2022-09-05,Activo
+418,CLI-418,TechZone Store,Tienda Retail,La Vega,Zona Norte,809-682-2509,techzonestore@techzone.do,2020-12-28,Activo
+419,CLI-419,ByteStore Point,Tienda Retail,Santiago,Zona Norte,809-887-4298,bytestorepoint@bytestor.do,2019-01-13,Activo
+420,CLI-420,Seguros & Asociados,Empresa Corporativa,Santo Domingo Oeste,Zona Capital,809-747-2734,segurosasociado@segurosa.do,2022-07-20,Activo
+421,CLI-421,Tech Store,Tienda Retail,Nagua,Zona Norte,809-940-7326,techstore@techstor.do,2020-03-03,Activo
+422,CLI-422,Farmacia & Asociados,Empresa Corporativa,Bonao,Zona Norte,809-553-3460,farmaciaasociad@farmacia.do,2020-03-19,Activo
+423,CLI-423,TechZone Center,Tienda Retail,Neiba,Zona Norte,809-849-5845,techzonecenter@techzone.do,2022-03-04,Activo
+424,CLI-424,Aerolínea CxA,Empresa Corporativa,Valverde (Mao),Zona Oeste,809-590-8851,aerolneacxa@aerolíne.do,2022-01-16,Activo
+425,CLI-425,Empresa SRL,Empresa Corporativa,Barahona,Zona Sur,809-537-3782,empresasrl@empresas.do,2022-06-17,Activo
+426,CLI-426,Grupo del Caribe,Empresa Corporativa,La Romana,Zona Este,809-417-1102,grupodelcaribe@grupodel.do,2021-01-23,Activo
+427,CLI-427,IslandTech SRL,Distribuidor Tecnológico,Boca Chica,Zona Capital,809-307-6075,islandtechsrl@islandte.do,2022-07-25,Activo
+428,CLI-428,Smart Depot,Tienda Retail,Santo Domingo,Zona Capital,809-234-4599,smartdepot@smartdep.do,2021-11-16,Activo
+429,CLI-429,Compu Plaza,Tienda Retail,Santiago,Zona Norte,809-259-7512,compuplaza@compupla.do,2018-04-23,Activo
+430,CLI-430,DigiShop Point,Tienda Retail,Barahona,Zona Sur,809-448-6902,digishoppoin@digishop.do,2023-08-24,Activo
+431,CLI-431,TechZone Express,Tienda Retail,San Pedro de Macorís,Zona Este,809-943-3925,techzoneexpress@techzone.do,2021-04-28,Activo
+432,CLI-432,EliteTech Solutions,Distribuidor Tecnológico,Puerto Plata,Zona Capital,809-243-8713,elitetechsoluti@elitetec.do,2024-02-02,Activo
+433,CLI-433,Info Center,Tienda Retail,Boca Chica,Zona Capital,809-569-2676,infocenter@infocent.do,2022-09-09,Activo
+434,CLI-434,ByteStore Hub,Tienda Retail,Puerto Plata,Zona Oeste,809-726-3424,bytestorehub@bytestor.do,2023-07-03,Activo
+435,CLI-435,Servicios SA,Empresa Corporativa,Valverde (Mao),Zona Oeste,809-858-1280,serviciossa@servicio.do,2021-11-04,Inactivo
+436,CLI-436,Servicios Nacional,Empresa Corporativa,Bonao,Zona Norte,809-352-3942,serviciosnacion@servicio.do,2020-05-24,Activo
+437,CLI-437,Info Market,Tienda Retail,Santiago,Zona Norte,809-298-5874,infomarket@infomark.do,2021-07-05,Activo
+438,CLI-438,Colegio del Caribe,Empresa Corporativa,Higüey,Zona Este,809-461-5788,colegiodelcarib@colegiod.do,2022-04-20,Activo
+439,CLI-439,ByteStore Hub,Tienda Retail,Baní,Zona Sur,809-884-8747,bytestorehub@bytestor.do,2022-07-09,Activo
+440,CLI-440,Hotel SRL,Empresa Corporativa,El Seibo,Zona Este,809-533-7023,hotelsrl@hotelsrl.do,2021-05-24,Activo
+441,CLI-441,Empresa del Caribe,Empresa Corporativa,Santiago,Zona Norte,809-318-6609,empresadelcarib@empresad.do,2019-07-06,Activo
+442,CLI-442,DigiDist Solutions,Distribuidor Tecnológico,Sosúa,Zona Oeste,809-229-9589,digidistsolutio@digidist.do,2021-08-01,Activo
+443,CLI-443,Digital Depot,Tienda Retail,Santo Domingo Este,Zona Capital,809-838-3401,digitaldepot@digitald.do,2021-03-01,Activo
+444,CLI-444,Compu Store,Tienda Retail,Higüey,Zona Este,809-660-3455,compustore@compusto.do,2022-05-08,Activo
+445,CLI-445,Hotel del Caribe,Empresa Corporativa,Puerto Plata,Zona Oeste,809-227-7226,hoteldelcari@hoteldel.do,2024-04-12,Inactivo
+446,CLI-446,ElectroTech Store,Tienda Retail,San Cristóbal,Zona Capital,809-418-7552,electrotechstor@electrot.do,2022-11-21,Activo
+447,CLI-447,Grupo SA,Empresa Corporativa,Barahona,Zona Este,809-347-4625,gruposa@gruposa.do,2023-10-27,Activo
+448,CLI-448,PC Shop,Tienda Retail,San Cristóbal,Zona Capital,809-285-3883,pcshop@pcshop.do,2021-02-01,Activo
+449,CLI-449,Mega Depot,Tienda Retail,Santo Domingo,Zona Capital,809-537-9095,megadepot@megadepo.do,2021-03-28,Activo
+450,CLI-450,Mega Center,Tienda Retail,Azua,Zona Capital,809-396-1890,megacenter@megacent.do,2023-08-14,Activo
+451,CLI-451,Ministerio & Asociados,Empresa Corporativa,Puerto Plata,Zona Norte,809-607-3114,ministerioasoci@minister.do,2020-01-26,Activo
+452,CLI-452,Cyber Plaza,Tienda Retail,Santo Domingo Oeste,Zona Capital,809-978-3639,cyberplaza@cyberpla.do,2020-12-13,Activo
+453,CLI-453,Servicios Internacional,Empresa Corporativa,Punta Cana,Zona Este,809-369-1973,serviciosintern@servicio.do,2023-04-23,Activo
+454,CLI-454,OmegaTech Partners,Distribuidor Tecnológico,San Pedro de Macorís,Zona Este,809-707-2577,omegatechpartne@omegatec.do,2022-12-14,Activo
+455,CLI-455,Compu Depot,Tienda Retail,Puerto Plata,Zona Oeste,809-578-6542,compudepot@compudep.do,2020-02-03,Activo
+456,CLI-456,Universidad SRL,Empresa Corporativa,Valverde (Mao),Zona Oeste,809-658-7165,universidads@universi.do,2024-02-04,Inactivo
+457,CLI-457,Supermercados SRL,Empresa Corporativa,Dajabón,Zona Oeste,809-320-7482,supermercadossr@supermer.do,2024-04-14,Activo
+458,CLI-458,OmegaTech Distribuidores,Distribuidor Tecnológico,San Pedro de Macorís,Zona Este,809-413-5729,omegatechdistri@omegatec.do,2023-01-02,Activo
+459,CLI-459,Hotel CxA,Empresa Corporativa,San Juan de la Maguana,Zona Capital,809-873-9885,hotelcxa@hotelcxa.do,2024-04-16,Activo
+460,CLI-460,Compu Store,Tienda Retail,Puerto Plata,Zona Norte,809-620-9961,compustore@compusto.do,2023-06-19,Activo
+461,CLI-461,ITDist Partners,Distribuidor Tecnológico,Santiago,Zona Norte,809-608-4034,itdistpartners@itdistpa.do,2020-10-22,Activo
+462,CLI-462,Hospital Dominicana,Empresa Corporativa,Santiago,Zona Norte,809-465-6436,hospitaldominic@hospital.do,2022-12-24,Activo
+463,CLI-463,Cyber Market,Tienda Retail,Moca,Zona Norte,809-840-4101,cybermarket@cybermar.do,2018-01-09,Activo
+464,CLI-464,ByteStore Zone,Tienda Retail,Santo Domingo Norte,Zona Capital,809-496-8588,bytestorezone@bytestor.do,2022-10-13,Activo
+465,CLI-465,AlphaTech Partners,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-573-1233,alphatechpartne@alphatec.do,2020-07-22,Activo
+466,CLI-466,PrimeTech Partners,Distribuidor Tecnológico,Santiago,Zona Norte,809-478-7586,primetechpartne@primetec.do,2020-03-18,Activo
+467,CLI-467,Ministerio SA,Empresa Corporativa,Santiago,Zona Norte,809-540-6100,ministeriosa@minister.do,2018-10-06,Activo
+468,CLI-468,Financiera CxA,Empresa Corporativa,Higüey,Zona Este,809-676-8928,financieracxa@financie.do,2022-03-17,Activo
+469,CLI-469,Cyber Shop,Tienda Retail,Barahona,Zona Sur,809-625-3046,cybershop@cybersho.do,2024-06-15,Inactivo
+470,CLI-470,PC Point,Tienda Retail,La Romana,Zona Este,809-454-7517,pcpoint@pcpoint.do,2021-02-11,Activo
+471,CLI-471,Ministerio SRL,Empresa Corporativa,Nagua,Zona Norte,809-206-6235,ministeriosrl@minister.do,2022-07-05,Activo
+472,CLI-472,DigiShop Center,Tienda Retail,San Pedro de Macorís,Zona Este,809-931-4111,digishopcenter@digishop.do,2022-02-11,Activo
+473,CLI-473,Corporación SA,Empresa Corporativa,San Juan de la Maguana,Zona Capital,809-572-3531,corporaciónsa@corporac.do,2023-03-16,Inactivo
+474,CLI-474,Digital Express,Tienda Retail,Bonao,Zona Norte,809-487-9967,digitalexpress@digitale.do,2020-12-12,Activo
+475,CLI-475,PC Zone,Tienda Retail,Santo Domingo Norte,Zona Capital,809-807-3035,pczone@pczone.do,2021-05-09,Activo
+476,CLI-476,Super Center,Tienda Retail,Santo Domingo Este,Zona Capital,809-412-5482,supercenter@supercen.do,2022-05-17,Activo
+477,CLI-477,Hospital Nacional,Empresa Corporativa,Moca,Zona Norte,809-526-1580,hospitalnaciona@hospital.do,2020-07-06,Activo
+478,CLI-478,ProTech SRL,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-926-7262,protechsrl@protechs.do,2024-12-16,Inactivo
+479,CLI-479,NetStore Market,Tienda Retail,Higüey,Zona Este,809-404-5245,netstoremarket@netstore.do,2021-09-28,Activo
+480,CLI-480,Cyber Point,Tienda Retail,Azua,Zona Capital,809-524-1021,cyberpoint@cyberpoi.do,2024-01-07,Activo
+481,CLI-481,Colegio SA,Empresa Corporativa,Baní,Zona Capital,809-531-1920,colegiosa@colegios.do,2023-01-08,Inactivo
+482,CLI-482,Cyber Plaza,Tienda Retail,Montecristi,Zona Oeste,809-260-4454,cyberplaza@cyberpla.do,2022-12-26,Activo
+483,CLI-483,IslandTech Distribuidores,Distribuidor Tecnológico,Santo Domingo Oeste,Zona Capital,809-903-5082,islandtechdistr@islandte.do,2019-01-16,Activo
+484,CLI-484,NetStore Store,Tienda Retail,Puerto Plata,Zona Oeste,809-467-1786,netstorestor@netstore.do,2024-06-15,Activo
+485,CLI-485,Clínica Nacional,Empresa Corporativa,Sosúa,Zona Oeste,809-974-7310,clínicanacional@clínican.do,2024-03-23,Inactivo
+486,CLI-486,ElectroTech Express,Tienda Retail,Santo Domingo,Zona Capital,809-331-8145,electrotechexpr@electrot.do,2021-07-04,Activo
+487,CLI-487,Corporación CxA,Empresa Corporativa,Puerto Plata,Zona Oeste,809-871-8791,corporacincx@corporac.do,2024-01-15,Inactivo
+488,CLI-488,MaxTech Distribuidores,Distribuidor Tecnológico,San Pedro de Macorís,Zona Este,809-625-8469,maxtechdistribu@maxtechd.do,2022-12-18,Activo
+489,CLI-489,Financiera SRL,Empresa Corporativa,Santo Domingo Oeste,Zona Capital,809-551-7940,financierasrl@financie.do,2021-08-16,Activo
+490,CLI-490,Ministerio & Asociados,Empresa Corporativa,La Vega,Zona Norte,809-466-2930,ministerioasoci@minister.do,2018-12-28,Activo
+491,CLI-491,Servicios & Asociados,Empresa Corporativa,Moca,Zona Norte,809-948-9584,serviciosasocia@servicio.do,2019-02-12,Activo
+492,CLI-492,Cyber Hub,Tienda Retail,Baní,Zona Sur,809-659-8526,cyberhub@cyberhub.do,2022-09-08,Activo
+493,CLI-493,BetaTech SRL,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-741-3528,betatechsrl@betatech.do,2022-04-09,Activo
+494,CLI-494,IslandTech Solutions,Distribuidor Tecnológico,Santiago,Zona Norte,809-320-8340,islandtechsolut@islandte.do,2023-05-07,Activo
+495,CLI-495,AlphaTech SRL,Distribuidor Tecnológico,San Pedro de Macorís,Zona Este,809-969-1881,alphatechsrl@alphatec.do,2021-04-28,Activo
+496,CLI-496,EliteTech Distribuidores,Distribuidor Tecnológico,San Francisco de Macorís,Zona Norte,809-875-1557,elitetechdistri@elitetec.do,2020-03-27,Activo
+497,CLI-497,ByteStore Market,Tienda Retail,La Romana,Zona Este,809-449-4641,bytestoremarket@bytestor.do,2021-12-17,Activo
+498,CLI-498,Cyber Store,Tienda Retail,Punta Cana,Zona Este,809-455-1611,cyberstore@cybersto.do,2022-10-22,Activo
+499,CLI-499,ElectroTech Zone,Tienda Retail,Dajabón,Zona Oeste,809-463-8626,electrotechzone@electrot.do,2020-10-26,Activo
+500,CLI-500,Smart Store,Tienda Retail,Baní,Zona Capital,809-915-3131,smartstore@smartsto.do,2023-03-04,Activo
+501,CLI-501,TropicTech Partners,Distribuidor Tecnológico,Neiba,Zona Norte,809-633-5265,tropictechpartn@tropicte.do,2023-10-01,Activo
+502,CLI-502,CompuWorld Depot,Tienda Retail,San Francisco de Macorís,Zona Norte,809-739-3408,compuworlddepot@compuwor.do,2022-10-06,Activo
+503,CLI-503,Super Plaza,Tienda Retail,Santo Domingo Oeste,Zona Capital,809-892-5324,superplaza@superpla.do,2021-02-08,Activo
+504,CLI-504,DigiShop Shop,Tienda Retail,Santo Domingo Norte,Zona Capital,809-786-8852,digishopshop@digishop.do,2021-11-04,Activo
+505,CLI-505,Industrias Nacional,Empresa Corporativa,Barahona,Zona Sur,809-929-1470,industriasnacio@industri.do,2021-07-21,Activo
+506,CLI-506,PC Shop,Tienda Retail,Cabarete,Zona Oeste,809-762-4076,pcshop@pcshop.do,2024-01-10,Inactivo
+507,CLI-507,Importadora SA,Empresa Corporativa,Cabarete,Zona Oeste,809-847-7393,importadoras@importad.do,2022-09-19,Activo
+508,CLI-508,Hotel Internacional,Empresa Corporativa,Sosúa,Zona Oeste,809-447-7054,hotelinternacio@hotelint.do,2021-05-16,Activo
+509,CLI-509,Farmacia SRL,Empresa Corporativa,Montecristi,Zona Norte,809-866-7052,farmaciasrl@farmacia.do,2024-07-26,Activo
+510,CLI-510,PC Market,Tienda Retail,La Romana,Zona Este,809-999-2027,pcmarket@pcmarket.do,2023-11-04,Activo
+511,CLI-511,CaribeTech SRL,Distribuidor Tecnológico,Hato Mayor,Zona Este,809-209-9422,caribetechsrl@caribete.do,2022-06-19,Activo
+512,CLI-512,Mega Store,Tienda Retail,Bonao,Zona Norte,809-975-5878,megastore@megastor.do,2018-06-05,Activo
+513,CLI-513,Compu Market,Tienda Retail,Hato Mayor,Zona Este,809-317-9054,compumarket@compumar.do,2021-02-15,Activo
+514,CLI-514,Tech Shop,Tienda Retail,Baní,Zona Capital,809-863-4813,techshop@techshop.do,2020-04-17,Activo
+515,CLI-515,Super Market,Tienda Retail,Cabarete,Zona Oeste,809-988-4561,supermarket@supermar.do,2024-08-21,Inactivo
+516,CLI-516,Super Express,Tienda Retail,Los Alcarrizos,Zona Capital,809-338-2119,superexpress@superexp.do,2020-10-22,Activo
+517,CLI-517,DigiShop Center,Tienda Retail,Azua,Zona Sur,809-699-4688,digishopcent@digishop.do,2023-09-03,Activo
+518,CLI-518,CaribeTech Partners,Distribuidor Tecnológico,San Pedro de Macorís,Zona Este,809-237-6005,caribetechpartn@caribete.do,2021-06-02,Activo
+519,CLI-519,Digital Depot,Tienda Retail,Puerto Plata,Zona Oeste,809-277-7969,digitaldepot@digitald.do,2022-06-28,Activo
+520,CLI-520,Clínica SRL,Empresa Corporativa,La Vega,Zona Norte,809-909-2174,clínicasrl@clínicas.do,2022-08-11,Activo
+521,CLI-521,PC Hub,Tienda Retail,Punta Cana,Zona Este,809-212-4309,pchub@pchub.do,2023-12-26,Activo
+522,CLI-522,TropicTech & Cía,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-892-8714,tropictechcía@tropicte.do,2022-03-07,Activo
+523,CLI-523,ITDist & Cía,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-563-3063,itdistca@itdistcí.do,2023-06-06,Activo
+524,CLI-524,Ministerio Nacional,Empresa Corporativa,Santo Domingo,Zona Capital,809-204-4196,ministerionacio@minister.do,2018-11-10,Activo
+525,CLI-525,Ministerio Dominicana,Empresa Corporativa,Bonao,Zona Norte,809-796-8420,ministeriodomin@minister.do,2021-11-12,Activo
+526,CLI-526,ByteStore Point,Tienda Retail,San Juan de la Maguana,Zona Capital,809-564-1799,bytestorepoi@bytestor.do,2024-01-24,Activo
+527,CLI-527,AlphaTech Solutions,Distribuidor Tecnológico,La Romana,Zona Este,809-770-4554,alphatechsoluti@alphatec.do,2021-09-20,Activo
+528,CLI-528,IslandTech Partners,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-333-8316,islandtechpartn@islandte.do,2021-02-13,Activo
+529,CLI-529,Hotel Nacional,Empresa Corporativa,San Pedro de Macorís,Zona Este,809-463-6081,hotelnacional@hotelnac.do,2022-03-08,Activo
+530,CLI-530,Universidad CxA,Empresa Corporativa,La Vega,Zona Norte,809-555-6983,universidadcxa@universi.do,2021-02-01,Activo
+531,CLI-531,TechZone Center,Tienda Retail,Puerto Plata,Zona Oeste,809-811-5382,techzonecent@techzone.do,2023-03-13,Activo
+532,CLI-532,CompuWorld Zone,Tienda Retail,Santo Domingo Norte,Zona Capital,809-803-6343,compuworldzone@compuwor.do,2021-05-21,Activo
+533,CLI-533,DigiShop Zone,Tienda Retail,Puerto Plata,Zona Oeste,809-252-8133,digishopzone@digishop.do,2023-02-10,Inactivo
+534,CLI-534,CaribeTech Distribuidores,Distribuidor Tecnológico,San Francisco de Macorís,Zona Norte,809-222-2699,caribetechdistr@caribete.do,2022-04-14,Activo
+535,CLI-535,MaxTech Partners,Distribuidor Tecnológico,Santiago,Zona Norte,809-541-3813,maxtechpartners@maxtechp.do,2021-07-24,Activo
+536,CLI-536,PrimeTech Distribuidores,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-819-2144,primetechdistri@primetec.do,2020-11-20,Activo
+537,CLI-537,TechDist & Cía,Distribuidor Tecnológico,Santiago,Zona Norte,809-729-4972,techdistcía@techdist.do,2019-06-22,Activo
+538,CLI-538,Info Shop,Tienda Retail,Santo Domingo,Zona Capital,809-464-6087,infoshop@infoshop.do,2021-09-22,Inactivo
+539,CLI-539,Mega Store,Tienda Retail,Puerto Plata,Zona Este,809-762-9436,megastore@megastor.do,2023-06-17,Inactivo
+540,CLI-540,Hotel Internacional,Empresa Corporativa,Los Alcarrizos,Zona Capital,809-545-4995,hotelinternacio@hotelint.do,2019-08-15,Activo
+541,CLI-541,ByteStore Store,Tienda Retail,Barahona,Zona Sur,809-735-9871,bytestoresto@bytestor.do,2024-08-09,Activo
+542,CLI-542,Super Center,Tienda Retail,Puerto Plata,Zona Oeste,809-676-3004,supercenter@supercen.do,2023-01-20,Activo
+543,CLI-543,Banco CxA,Empresa Corporativa,Puerto Plata,Zona Oeste,809-690-2123,bancocxa@bancocxa.do,2024-02-25,Inactivo
+544,CLI-544,MaxTech Solutions,Distribuidor Tecnológico,Moca,Zona Norte,809-877-1432,maxtechsolution@maxtechs.do,2021-06-20,Activo
+545,CLI-545,Grupo Internacional,Empresa Corporativa,Santiago,Zona Norte,809-382-9574,grupointernacio@grupoint.do,2022-09-12,Activo
+546,CLI-546,Aerolínea SA,Empresa Corporativa,Salcedo,Zona Norte,809-670-7664,aerolíneasa@aerolíne.do,2019-07-21,Activo
+547,CLI-547,Constructora Internacional,Empresa Corporativa,Puerto Plata,Zona Oeste,809-257-8802,constructoraint@construc.do,2023-12-27,Activo
+548,CLI-548,Digital Shop,Tienda Retail,Moca,Zona Norte,809-351-8646,digitalshop@digitals.do,2021-02-02,Activo
+549,CLI-549,Cyber Hub,Tienda Retail,Santo Domingo,Zona Capital,809-646-6150,cyberhub@cyberhub.do,2022-06-15,Activo
+550,CLI-550,TechDist SRL,Distribuidor Tecnológico,Puerto Plata,Zona Oeste,809-541-3607,techdistsrl@techdist.do,2022-10-04,Activo
+551,CLI-551,TropicTech SRL,Distribuidor Tecnológico,Baní,Zona Norte,809-213-4570,tropictechsr@tropicte.do,2024-01-16,Activo
+552,CLI-552,Universidad del Caribe,Empresa Corporativa,Santiago,Zona Norte,809-908-9740,universidaddelc@universi.do,2019-11-22,Activo
+553,CLI-553,CompuWorld Store,Tienda Retail,Sosúa,Zona Oeste,809-420-4887,compuworldstore@compuwor.do,2023-08-17,Activo
+554,CLI-554,Super Plaza,Tienda Retail,Barahona,Zona Capital,809-919-5948,superplaza@superpla.do,2019-05-27,Activo
+555,CLI-555,Distribuidora SA,Empresa Corporativa,Puerto Plata,Zona Oeste,809-200-2177,distribuidorasa@distribu.do,2024-08-07,Activo
+556,CLI-556,ITDist Distribuidores,Distribuidor Tecnológico,San Juan de la Maguana,Zona Norte,809-593-2467,itdistdistribui@itdistdi.do,2020-11-25,Activo
+557,CLI-557,Compu Market,Tienda Retail,Dajabón,Zona Oeste,809-316-1665,compumarket@compumar.do,2024-06-23,Activo
+558,CLI-558,CompuWorld Store,Tienda Retail,San Juan de la Maguana,Zona Sur,809-274-5890,compuworldstore@compuwor.do,2022-12-22,Activo
+559,CLI-559,Grupo Dominicana,Empresa Corporativa,Boca Chica,Zona Capital,809-629-9393,grupodominicana@grupodom.do,2022-02-10,Activo
+560,CLI-560,Info Store,Tienda Retail,Santiago,Zona Norte,809-207-6975,infostore@infostor.do,2021-07-03,Activo
+561,CLI-561,NetStore Center,Tienda Retail,Nagua,Zona Norte,809-220-7721,netstorecenter@netstore.do,2020-09-03,Activo
+562,CLI-562,TropicTech Distribuidores,Distribuidor Tecnológico,Santo Domingo,Zona Capital,809-905-3174,tropictechdistr@tropicte.do,2021-05-05,Activo
+563,CLI-563,DigiShop Depot,Tienda Retail,Higüey,Zona Este,809-400-4318,digishopdepot@digishop.do,2021-11-10,Activo
+564,CLI-564,Colegio & Asociados,Empresa Corporativa,Boca Chica,Zona Capital,809-302-8148,colegioasociado@colegioa.do,2019-09-14,Activo
+565,CLI-565,DigiShop Hub,Tienda Retail,Hato Mayor,Zona Este,809-805-9216,digishophub@digishop.do,2022-10-02,Activo
+566,CLI-566,Mega Depot,Tienda Retail,San Juan de la Maguana,Zona Sur,809-389-3835,megadepot@megadepo.do,2023-01-17,Inactivo
+567,CLI-567,Tech Center,Tienda Retail,Santo Domingo Norte,Zona Capital,809-775-7497,techcenter@techcent.do,2018-09-14,Activo
+568,CLI-568,ElectroTech Center,Tienda Retail,Santiago,Zona Norte,809-807-3367,electrotechcent@electrot.do,2022-05-12,Activo
+569,CLI-569,Servicios Dominicana,Empresa Corporativa,Santo Domingo Norte,Zona Capital,809-914-3451,serviciosdomini@servicio.do,2021-02-15,Activo
+570,CLI-570,Constructora SRL,Empresa Corporativa,Punta Cana,Zona Este,809-339-6128,constructorasrl@construc.do,2023-12-19,Activo
+571,CLI-571,Distribuidora CxA,Empresa Corporativa,La Vega,Zona Norte,809-275-7732,distribuidoracx@distribu.do,2020-06-09,Activo
